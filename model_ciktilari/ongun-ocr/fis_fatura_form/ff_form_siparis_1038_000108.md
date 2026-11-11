@@ -1,0 +1,15 @@
+TEPEKENT EV TEKSTİLİ LTD. ŞTİ.
+
+SİPARİŞ FORMU
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Searp No.</td><td style='text-align: center; word-wrap: break-word;'>Tarih</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>96239</td><td style='text-align: center; word-wrap: break-word;'>02.07.2026</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Müşteri&#x27;de Bıyadı</td><td style='text-align: center; word-wrap: break-word;'>Teselon</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Alışık Akar</td><td style='text-align: center; word-wrap: break-word;'>(530) 286 78 65</td></tr></table>
+
+İstiklal Mah. Sogüt Sokak No: 45 D: 5 Ortahisar / Trabzon
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Ürün</td><td style='text-align: center; word-wrap: break-word;'>Adet</td><td style='text-align: center; word-wrap: break-word;'>Birim Fiyat</td><td style='text-align: center; word-wrap: break-word;'>Tutar</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nevresim Takımı Çift Kişilik</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>1.250,00</td><td style='text-align: center; word-wrap: break-word;'>6.250,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Kirlent Kilfi</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>230,00</td><td style='text-align: center; word-wrap: break-word;'>1.150,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bambu Havlu Seti</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>570,00</td><td style='text-align: center; word-wrap: break-word;'>2.850,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Seramik Kupa</td><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>210,00</td><td style='text-align: center; word-wrap: break-word;'>630,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Pamuklu Bornoz</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>1.250,00</td><td style='text-align: center; word-wrap: break-word;'>1.250,00</td></tr><tr><td colspan="3">GENEL TOPLAM</td><td style='text-align: center; word-wrap: break-word;'>12.130,00</td></tr><tr><td colspan="3">TL</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+Ödeme: Kapıda Nakit x Kapıda Kredi Kartı Havale / EFT
+
+Hafta içi teslim edilsin.

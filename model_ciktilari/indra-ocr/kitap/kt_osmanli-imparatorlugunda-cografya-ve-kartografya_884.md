@@ -1,0 +1,19 @@
+XVIII. yüzyilda, Avrupa eserlerinden J. Robbs’a ait La Méthode Pour Apprendre Facilement la Géographie’si Petros Baronyan tarafından Risâle-i Coğrafya ve Bernhard Varenius’un Geographia Generalis’i Osman b. Abdülmennan tarafından, Tercüme-i Kitâb-ı Coğrafya adıyla tercüme edilmiştir. Fakat bu döneme damgasını vuran el-Coğrafi lakaplı İbrahim Müteferrika’dır.
+
+İbrahim Müteferrika, 1727’de Dârü’t-Tıbâ‘ati’l-Ma‘mûre adlı ilk Türk matbaasını kurmuştur. Müteferrika’nın Cihannümâ’yı yeniden neşretmesi, kartografya konusundaki çalışmaları coğrafya bilimi açısından oldukça önemlidir. Ayrıca Müteferrika tarafından tercüme yoluyla meydana getirilen, Marmara Denizi, Karadeniz, Iran ve Misır’a dair haritalar basmıştır. Çalışmaları içerisinde en çok göze çarpanı; ikinci telif Cihannüma’nın neşridir. 1732’de bu eseri neşrederken; Mercator, Ortelius ve Hondius’un çalişmalari ile J. B. Homann’in atlasıni, N. Sanson’un Atlas Nouveau ’sunu, Cellarius’a ait Atlas Coelestis’i kullanarak çeşitli haritalar oluşturmuş ve esere eklemiştir.9 Böylece esere geniş bir atlas kimliği kazandırmaya çalışmıştır. Cihannüma’nın Müteferrika tarafından basılması, yine Cihannüma’ya zeyl olarak oluşturulan Ebûbekir B. Dimeşki’nin Risåle fi’l Coğrafya’sı ve Bartınlı Ibrahim Hamdi’nin Atlas’1 gibi bir çok eser coğrafya çalışmalarına temel oluşturmuştur. Ibrahim Müteferrika ayrica, A. Cellarius’un Atlas Coelestis’ini, W. Whiston’un The Longitude and Latitude Found by the Inclinatory or Dipping Needle’n da tercüme ederek Avrupa’daki coğrafi bilgiyi Osmanlıya aktarma konusunda katkıda bulunmuştur.10
+
+Osmanlı’da tercüme yoluyla hazırlanan modern atlas ve haritaların sayısındaki artış özellikle mühendishanelerin kuruluşundan sonraki dönemde gerçekleşmiştir. Ibrahim Müteferrikanın kurduğu matbaa, ölümünden sonra verimli olamamıştır. Müteferrika matbaasından kalan makina ve aletler, III. Selim döneminde kurulan, Mühendishâne-i Berri-i Hümâyun’un matbaasına (1797) devredilmiştir. Matbaanın kuruluş nedenlerinden biri de mühendishanede eğitim gören öğrencilerin eğitim materyali ihtiyacını karşılamaktır.11 Müderris Abdurrahman Efendi yönetimindeki Mühendishâne-i Berri-i Hümâyun matbaasında, coğrafya alanında ilk olarak, Mahmud Raif Efendi tarafindan tercüme edilen, bazı haritalar basılmıştır. Mahmud Raif Efendi’nin tercüme ettiği haritalar, Danvil Atlası’nın başında yer alan Avrupa, Asya, Afrika ve Amerika kıtalarını gösteren haritalardır. Haritaların kalıpları Viyana’da çıkarılmış ve mühendishanenin matbaasında basılmıştır.
+
+Mahmud Raif Bey, Londra’da açılan ilk Osmanlı daimi elçiliğinde sırkatipliği yapmıştır. Ayrıca, tarih, coğrafya, harita ve plan çizimine ilgi duyan bir devlet adamıdır. Londra’da bulunduğu sırada Fransızca olarak hazırladığı, Osmanlı coğrafya ders kitaplarının ilk örneği olarak kabul edilen Icâletü ’1-Coğråfiyye adıyla tercüme tercüme edilerek, Üsküdar’da mühendishane matbaasında basılmıştır. Eser, III. Selim’in isteği doğrultusunda bir yıl kadar önce yine aynı matbaada basılmış olan Atlas-ı Cedid (1803) ile birlikte ciltlenmistir. $^ { 1 2 }$
+
+Cedid Atlas Tercümesi, Osmanlı’nın ilk Türkçe basılı atlası olarak kabul edilmektedir. William Faden’e ait, General Atlas isimli eser tercüme edilerek mühendishane hocalarından Abdurrahman Efen-
+
+9 Sarıcaoğlu, “Harita”, 216.
+
+10 Üstüner, “Avrupa Coğrafyacılığının Osmanlı Dünyasına İntikali: Tercüme Eserler”, 102-103.
+
+11 Kemal Beydilli, Türk Bilim ve Matbaacılık Tarihinde Mühendishâne Mühendishâne Matbaası ve Kütüphânesi (1776-1826),
+
+(İstanbul: Eren Yayıncılık, 1995), 99.
+
+12 Kemal Beydilli, “Mahmud Raif Efendi”. DİA, c. 27 (TDV. Yay., 2003): 383.

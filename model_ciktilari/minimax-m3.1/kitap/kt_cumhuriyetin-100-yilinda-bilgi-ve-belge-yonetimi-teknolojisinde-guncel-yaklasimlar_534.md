@@ -1,0 +1,16 @@
+<header>
+TEKNOLOJİK GELİŞMELERİN KOLEKSİYON VE TEKNİK HİZMETLERE YANSIMALARI / REFLECTIONS
+518 | OF TECHNOLOGICAL DEVELOPMENTS ON COLLECTION AND TECHNICAL SERVICES
+</header>
+
+Kent arşivi kavramı yerel tarih çalışmalarından başlamış olarak ele alınmaz. 1870 li yıllarda başlayan yerel tarih yazıcılığı, Osmanlı İmparatorluğu'nda yaşanan gelişmelerle birlikte önem kazanmıştır. Belediyelerin kurulması, vilayet meclalarının açılması, vilayetlerin idari yapısı, nüfusu, coğrafi özellikleri gibi konuların bir araya getirildiği salnamelerin yayınlanması, seyyahların ziyaretleri bu gelişmeler arasında örnek gösterilebilir (Yalçın, 2013, s. 79). Bilinen ilk yerel tarih çalışmaları arasında; 1871 yılında İsmail Belig Efendi'nin yazdığı Tarih-i Bursa ile Lami Çelebi'nin yazdığı Şehengizâ-i Bursa, 1873'te Şakir Şevket tarafından kaleme alınan Trabzon Tarihi ve 1883'te Lütfi'nin hazırladığı Sami Tarihi yer almaktadır. 1928 Harf Devrimi'ne kadar kent tarihlerini konu alan altmıştan fazla çalışmanın yapıldığı bilinmektedir. Cumhuriyete geçtikten sonra açılan Halkevleri, kent tarihini anlatan çalışmaların sayısını ciddi manada artırmıştır. 1928'den 1955 yılına kadar yaklaşık 300 eserin yayınlandığı düşünülmektedir. Akademik çalışmalar ise genellikle 15. ve 17. yüzyıl tapu tahrir defterleri ve seriyye sicilleri üzerine yoğunlaşmıştır (Aslan, 2000, s. 199).
+
+Kent arşivlerinin ilk örnekleri 19. yüzyılın ikinci yarısından itibaren görülmeye başlanmıştır. 1806-1918 yılları arasında varlığını sürdürmüş bir Alman Devleti olan Bavyera Krallığı, 1887 yılında bilinen ilk kent arşivi örnekleri sayılabilecek altı ilçe arşivini oluşturmuştur (Akt. Ahmetbeyoğlu, 2010, s. 380). Ülkemizde ise çok yakın bir zamanda oluşturulmaya başlanmıştır.
+
+Ayrıca özel arşivler kapsamında ele alınan kent arşivlerinin yasal statüsüne ilişkin belirsizliğin ortadan kaldırılması bu arşivlerin yaygınlaşması ve uluslararası standartlarda hizmete açılması için önemli bir adım olacaktır. Bu vesile ile yapılan araştırmalarla ortaya çıkan Kent Arşivi kavramını ilmi bir temele oturtarak, Türkiye'de kurulmuş olan ve halen faaliyet gösteren kent arşivi çalışmalarına ilişkin durum tespiti yaparak, Türkiye için uygulanabilir nitelikte kent arşivi modelinin oluşması sağlanmalıdır. Yerli ve yabancı kaynaklar ışığında ikmal edilmiş olan çalışma, iki bölümden oluşmaktadır. Birinci bölümde, kent arşivlerinin tanımı, önemi, kurumsal yapısı, oluşturulma süreci gibi teorik malumatlar yer almaktadır. İkinci bölümde, ikilemezdeki kent arşivleri, kuruluşları ve bilgi kaynakları değerlendirilmiştir. Bu yaklaşım doğrultusunda kaleme alınan çalışmamızın temel amacı, yerel kültür temsilciliği vasfına haiz olan kent arşiviyle alakalı kapsamlı bir araştırma ortaya koymaktır.
+
+Çalışmada Türkiye'deki kent arşivi uygulamaları değerlendirilmiş, oluşturulan arşiv çalışmalarının geleceğe dönük nasıl olması gerektiği hususunda fikirler ortaya konmuştur. Bununla beraber ülkemizdeki faal olan kent arşivlerinin mevcut durumları belirlenmiş, verdikleri hizmetin ulusal veya uluslararası standartlarda olup olmadığı araştırılmıştır.
+
+<footer>
+518
+</footer>

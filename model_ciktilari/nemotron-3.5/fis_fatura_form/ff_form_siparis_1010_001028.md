@@ -1,0 +1,68 @@
+# ZORLU HEDİYELİK EŞYA LTD. ŞTİ.
+
+Sipariş No  
+84809  
+
+Müşteri Adı: Soyadı  
+Hatem Kısakürek  
+
+Teslimat Adresi  
+Gül Mah. Lale Sk. No: 19 D: 13 Üsküdar / İstanbul  
+
+Tarih  
+20.03.2026  
+
+Telefon  
++90 555 787 42 28  
+
+<table>
+  <tr>
+    <td><b>Ürün</b></td>
+    <td><b>Adet</b></td>
+    <td><b>Birim Fiyat</b></td>
+    <td><b>Tutar</b></td>
+  </tr>
+  <tr>
+    <td>Seramik Kupa</td>
+    <td>1</td>
+    <td>100,00</td>
+    <td>100,00</td>
+  </tr>
+  <tr>
+    <td>Çelik Termos 1 L</td>
+    <td>1</td>
+    <td>490,00</td>
+    <td>490,00</td>
+  </tr>
+  <tr>
+    <td>Pamuklu Bornoz</td>
+    <td>3</td>
+    <td>760,00</td>
+    <td>2.280,00</td>
+  </tr>
+  <tr>
+    <td>Ahşap Kesme Tahtası</td>
+    <td>3</td>
+    <td>390,00</td>
+    <td>1.170,00</td>
+  </tr>
+  <tr>
+    <td>Kirlent Kılıfı</td>
+    <td>3</td>
+    <td>240,00</td>
+    <td>720,00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3">GENEL TOPLAM</td>
+    <td>4.760,00 TL</td>
+  </tr>
+</table>
+
+Ödeme: ☐ Kapıda Nakit ☐ Kapıda Kredi Kartı ☒ Havale / EFT  
+Not: Teslimattan önce aranmak istiyorum.

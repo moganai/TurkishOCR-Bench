@@ -1,0 +1,16 @@
+<header>Mehmet Ruyan SOYDAN | 243</header>
+
+Halkalı mektebindeki hocalığına yetişecek, ertesi sabah yine memuriyetine dönecek, o akşam Acıbademdeki Ratıp Paşa'nın, ertesi akşam Suadiye'deki Ragıp Paşanın, daha ertesi gece erkânı harp müşiri bilmem kimin bilmem neredeki çocuklarına derse gitmek için koşturmaktaydı¹. Hatta, sabah ilk saatlerdeki derslerine geç kalmamak için bir gün önceden okula gidip geceyi okulda çalışarak geçirdikten sonra sabah derslerine vaktinde girecek² kadar fedakârca bu mesleği icra etmekteydi. O, 63 yıllık hayatına birçok meslek sığdırmış baytarlık, şairlik, muharrirlik, muallimlik, mebusluk gibi birçok vazifeleri çoğu kez birlikte icra etmiş, muallimlik dönemi ise neredeyse ömrünün yarısını kapsayacak kadar uzun sürmüştü.
+
+1889 yılında eğitim faaliyetine başlayan Halkalı Ziraat Mektebi'nin ilk talebelerinden birisi olan Mehmed Âkif, 1893 yılında birincilikle mezun olup, talebeler adına ilk mezuniyet konuşmasını yaptıktan yaklaşık on üç yıl sonra “baytar” olarak mezun olduğu okula bu sefer -Ziraat Nezareti'ndeki memuriyetine ilâveten- 4 Teşrinievvel 1322 (17 Ekim 1906) tarihinde³ “kitâbet-i resmiye muallimi” olarak tayin edilmesiyle birlikte hoca olarak dönmüştü. Bu vazife onun ilk resmi hocalık vazifesi olduğu gibi ömrünün son dönemine kadar devam ettireceği esas mesleği haline gelecektir. Önce talebesi sonra hocası olarak gönülden bağlı olduğu Halkalı Ziraat Mektebi'nde uzun müddet muallimliğini devam ettirecek olan Âkif, aynı zamanda Baytar Mekteb-i Âlisi Me'zûnîn Cemiyeti reisliğini yapmış⁴ ve okul mecmuasının ilk sayısında mektebin tarihçesini anlattığı bir yazı kaleme almıştı⁵.
+
+Aynı yıllarda, -kendisi meslek itibariyle baytar ve görev itibariyle edebiyat muallimi olmasına rağmen- okul idaresinin talebi üzerine ziraat talebeleri için ders kitabı olarak okutulmak maksadıyla, Mikail Çilingiryan'la birlikte “Zeytin Ağacı” adı altında bir de ziraat kitabı hazırlamıştı. Birkaç eserden derleme yoluyla tercüme edilerek hazırlanan bu kitap, Ziraat Mektebi'nde şapograf usulüyle çoğaltılmak suretiyle 1328-1329 (1912-1913) yıllarında kısmi kısm neşredilmiş, Fransızca kitaplardan alınan bölümleri Âkif tarafından, İtalyanca eserlerden alınan bölümleri ise Mikail Çilingiryan tarafından tercüme edilmiştir⁶. Bu dönemde Âkif'in okuldaki esas vazifesi olan edebiyat derslerinde işlediği konulara ise,
+
+<footnotes>
+1. Midhat Cemal, *Mehmed Âkif*, Semih Lütfi Kitabevi, İstanbul 1939, s. 44.
+2. Ferruh Dinçer, *Veteriner Hekim Gözüyle Veteriner Hekim Mehmet Âkif Ersøy*, Türk Veteriner Hekimler Birliği, Ankara 2011, s. 233. Aynı hususu M. Emin Erişirgil de anlatmaktadır. Bkz. M. Emin Erişirgil, *Mehmet Akif İslâmcı Bir Şairin Romanı*, Ankara 1956, s. 22.
+3. Eşref Edib, *Mehmed Âkif Hayatı, Eserleri ve 70 Muharririn Yazıları*, 1. cild, Âsarı İlmîye Kütüphanesi, İstanbul 1938, s. 295.
+4. Dinçer, a.g.e., s. 11.
+5. M.A., “Mesleğimiz”, *Halkalı Ziraat Mekteb-i Âlisi Mecmuası*, no. 1, Nisan 1333, s. 1-10.
+6. Son derece nadir olan bu eser, Selma Günaydın ve Yusuf Turan Günaydın tarafından hazırlananak orijinal nüshasıyla birlikte yayımlanmıştır: Mehmet Âkif - Mikâil Çilingiryan, *Zeytin Ağacı*, çeviri yazısı Selma Günaydın ve Yusuf Turan Günaydın, *Zeytinburnu Belediyesi*, İstanbul 2020.
+</footnotes>

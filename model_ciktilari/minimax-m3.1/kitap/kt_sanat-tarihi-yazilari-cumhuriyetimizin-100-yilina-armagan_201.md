@@ -1,0 +1,15 @@
+<header>188 | ULUS DEVLET VE SANAT İLİŞKİSİNDE TÜRK RESMİNİN ROLÜ (1923-1960)</header>
+
+İere ihtiyaç vardır. Eğitim, kültür ve tarih birliği gibi.¹⁸ Cumhuriyet'in ilk kuruluş yıllarında Türkçülük ve Batıcılık çağdaşlaşma olarak ön plana çıkar. Çağdaşlaşma, muasır medeniyetlere yetişme ve onları geçme olarak, milliyetçilik ise etnik özelliğin vurgulandığı meşruiyet dönemi Türkcülük anlayışı yerine daha esnek içerikli bir Türkçülük olarak ele alınır. İrkçi bir milliyet kavramına dayanan Türkçülük, Cumhuriyet döneminde ulusculuk anlayışındaki Türkçülüğe dönüştür¹⁹ ve yeni kültür sanat politikasında etkin olur. Bir taraftan Türk sanatına ulusal kimlik kazandırmanın ve milli sanatı geliştirmenin üzerinde durulurken bir taraftan da halkın eğitilmesi ve yeniliklere uyum sağlanması adına sanat, araç olarak kullanılır. Dolayısıyla Cumhuriyetin kuruluşundan itibaren sanat sadece estetik olarak değil, devrimlerin halk tarafından benimsenmesi görevini de üstlenir. Özellikle cumhuriyet ile birlikte amaç, millitesmeyi gerçekleştirmek olur.
+
+Cumhuriyetin ilanından on gün önce, 19 Ekim 1923'te Türk Ressamlar Cemiyeti tarafından Türk Ocağı'nda açılan sergi, Ankara'da açılan ilk resim sergisi olması açısından tarihi bir önem taşır. Sergi açılışında İbrahim Çallı, konuşmasında 1923 sergisi için ilk suh sergisi tanımlamasını yapar:²⁰ Sergide Mehmet Rıfat Bey'in *Eski Türk Güzelliği, Kasnak İşlerken* ve *Bahçede Gerged İşlerken*, Mehmet Ali Laga'nın *İstinye Sahili*, Halil Paşa'nın *Ortanca Çiçekleri* ve *Haimi Çiçekleri* Avni Lifi'ni *Neş'î Devrinde Bir Şahife, Erkan-ı Harbiye-i Umumiye Resmi Fevzi Paşa Hazretleri*, Üsküdar Cevat Gökçengiz'in *Sis Bahçeleri (G. 7)* Namık İsmail'in *Şakayıklar*, Ömer Adil'in *Atelyede İstihrat Zamanı* ve Sami Yetik'in *Kış*. Namık İsmail'in *Tıflıs* sergide yer alan eserlerin bazılarıdır.²¹ 1923 Ankara Sergisi devletin artık Ankara'nın bir de sanat merkezi olmayı hedeflediğinin bir göstergesidir. Serginin açılışına Mustafa Kemal katılmaz ancak birkaç gün sonra sergiyi gezer ve Çankaya Köşkü için satın alınmasını talep ettiği eserler ile birlikte sergide yer alan eserlerin önemli bir kısmını da diğer devlet kurumları ve milletvekillerlerine satın alınmasını ister.²² Ressamlığının yanı sıra sanat eleştirisi yazıları da yayımlanan Avni Lifi bir yazısında 1923 Ankara Sergisi'ni şöyle değerlendirir:
+
+“Anadolu'nun ortasından, Türkiye'nin yeni merkez idaresinden sınat ve incelik vaatlerine doğru açılan ilk pencerede. Oradan parlak bir fecrin belirdiği ufukta ve o ufuklarda sanatımızın geleceği için güzel ümitlerden hasıl olma pembe bulutlar görünüyor. Türk Ocağı'ndaki resimler yalnız geniş bir salonun duvarlarını donatmakta kalınca. Onların oradaki varlıklarını manası
+
+18 *Sanat-Siyaset Kültür Çağında Sanat ve Kültürel Politika*, 21.
+19 *Ödün, Cumhuriyetin Kültür Politikası ve Sanat*, 57-58.
+20 İrepoğlu, *Feyhoman*, 62.
+21 Ömer Faruk Serifoğlu, “100. Yılında Cumhuriyetin Sanata Yaklaşımı ve Resim Sanatı,” *Tevfik Yüzyıl, Cumhuriyetin 100. Yılında 100 Ressam* içinde, ed. Ayşe Bedir (Ankara: Türk Tarih Kurumu, 2023), 79.
+22 Devlet Ayakları Cumhuriyet Arşivi, A III-II-48-18-2,3.
+
+<footer>188</footer>

@@ -1,0 +1,32 @@
+ASTERYA MOBİLYA SAN. VE TİC. LTD. ŞTİ.
+
+Sipariş No  
+14220  
+
+Müşteri Adı Soyadı  
+Nurhayet Fayize Tevetoğlu  
+
+Tarih  
+14.01.2026  
+
+Telefon  
+0 (543) 536 34 81  
+
+Teslimat Adresi  
+Şirinevler Mah. Okul Sk. No: 132 İlkadım / Samsun  
+
+| Ürün    | Adet | Birim Fiyat | Tutar  |
+|---|---|---|---|
+| Masa Lambası    | 1    | 420,00    | 420,00 |
+| Pamuklu Bornoz    | 1    | 740,00    | 740,00 |
+| Duvar Saati    | 1    | 380,00    | 380,00 |
+| Kirlent Kılıfı    | 2    | 210,00    | 420,00 |
+| Cam Saklama Kabı 3’lü  | 5    | 460,00    | 2.300,00|
+
+GÖNEL TOPLAM  
+4.260,00 TL  
+
+Ödeme:  
+X Kapıda Nakit  
+☐ Kapıda Kredi Kartı  
+☐ Havale / EFT

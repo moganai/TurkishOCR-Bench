@@ -1,0 +1,18 @@
+### KARVANIS EV TEKSTILI LTD. ŞTI
+
+SiPARi$ Fi$i
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Siparis No
+74218</td><td style='text-align: center; word-wrap: break-word;'>Tarih
+26.06.2026</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Müsteri Adi Soyadi
+Güverçin Zorlu</td><td style='text-align: center; word-wrap: break-word;'>Telefon
++90 535 974 56 63</td></tr><tr><td colspan="2">Teslimat Adresi
+Yıldız Mah. Gül Sk. No: 75 Fethiye / Muğla</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Ürün</td><td style='text-align: center; word-wrap: break-word;'>Adet</td><td style='text-align: center; word-wrap: break-word;'>Birim Fiyat</td><td style='text-align: center; word-wrap: break-word;'>Tutar</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Pamuklu Bornoz</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>1.000,00</td><td style='text-align: center; word-wrap: break-word;'>1.000,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nevresim Takimi Çift Kişilik</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>1.300,00</td><td style='text-align: center; word-wrap: break-word;'>1.300,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Duvar Saati</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>370,00</td><td style='text-align: center; word-wrap: break-word;'>370,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Kirlent Kılıfi</td><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>140,00</td><td style='text-align: center; word-wrap: break-word;'>420,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Masa Lambasi</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>490,00</td><td style='text-align: center; word-wrap: break-word;'>2.450,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td colspan="3">GENEL TOPLAM</td><td style='text-align: center; word-wrap: break-word;'>5.540,00 TL</td></tr></table>
+
+Ödeme: □ Kapıda Nakit □ Kapıda Kredi Kartı □ Havale / EFT
+
+Not: Teslimattan önce aranmak istiyorum.

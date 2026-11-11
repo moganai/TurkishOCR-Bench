@@ -1,0 +1,9 @@
+hen de bir kere arzetmek mecburiyetinde kalmıştır. Efkâr tazyik ile veya emr-i vâkilerle yürütülemez. Şimdiye kadar bu nokta-i nazike etrafında ne zaman gaflet edilmiş ise mutlaka mukabelesini ve cezasını çektik. Asıl şâyan-ı nazar olan da vakayi-i mühimme karşıısında hemfikinden teferruat-ı umurla birçoklarını lisana getirmeğe ve tehlike-i azime yerine eşkâle taallük eden hususata hasr-ı zihin ve vakte meydan verildi. Erzurum ve Trabzon nizamnamesinin tâdil ve tashihine muvafakat etmiyor. Ve tekiden bendenizi de iz’aç ediyorlar. Bendeniz tekrar meseleyi hey’et-i muhteremenize arzla beraber suret-i hususiyede zât-ı biraderanelerinden hepimizin kanât-ı müsterekesi olmak üzere rica ediyorum ki içtihat ve kanâtlara tevafuk etmeyen hususat için ısrar yerine erbab-ı fikr-ı selmeden olan bu hey’etleri telif ve irza elzemdir. Arz-ı samimiyetle gözlerinden öperim.
+
+4 — Şunu da arzedeyim ki buradan müşterek imzalar ile çekilmiş telgraflar olmadığı gibi böyle mazbutiyeti çığırından çıkaran müşterek imzalara taraftar da değilim. Binaenaleyh ledeltetik buradaki mukarreratımızın müsveddesi emsali veçhile rüfekamiz tarafından imzalanmış ve yanibaşımızdaki odada çalışan telgraf memuru da o müsveddede gördüğü imzaları vaz'eylemedi hatasında bulunmuştur ki zannederim zâtiâilerinin de diğer rüfekamiz ile beraber imza buyurmalarına saik olmuştur.
+
+## Kázum Karabekir
+
+21 Eylülde Mustafa Kemal Paşa hazretlerine yazdığım mufassal şifremde:
+
+(Efkâr ve kanaatlar üzerine ve bahusus samimî ve kıymetli bir muhitte vâki olacak tazyik ve icbarın hiçbir zaman müsbet neticeler vermiyeceği şüphesizdir. Ikna her teşebbüsün esası olmalıdır) dedim. Bu şifreyi hem-miyetine mebni aynen yazıyorum:

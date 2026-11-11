@@ -1,0 +1,11 @@
+mete uğratı; mütemadi zaferlerle Suriyeyi gerialdi (1260). Bu büyük zaferin verdiği kuvvetle tahta geçen Beybars, Şark Lâtinleri meselesini de temizlemek istedi; Hayfa, Yafa, Antakye şehirlerini zaptetti (1265 — 1268). İlhan Abaka'nın Suriyeye gönderdiği elli bin kişilik bir ordu, otuz bin kişilik lâtin ordusile birlikte Suriyeye tekrar hücum etti; fakat Sultan Kalavun Humus (Hims) civarında bu orduyu mahvetti (1281). Kalavun dört sene sora Trabulusşamı zaptettiği gibi, halefi Meliküleşrefte Lâtinlerin Suriyede son sağındıkları kale olan Akkâyı elegeçirmek suretile Suriyede Haçlılar seferlerinin son bakıyelerini de ortadan kaldırdı. Maamafih İlhanlılar Suriyenin istilâsı fikrinden bir türlü vazgeçmiyorlardı; Gazan zamanında gönderilen bir istilâ ordusu iptida bazı muvaffakiyetler kazandı ise de, Memlüklerin Mercüssöferdeki galebeleri Suriyeyi tekrar İlhanlılar istilâsından kurtardı (1303). Memlükler bundan sora. Haç�lar himayesinde kurulmuş olan Küçük Ermenistan Kırallığına karşı da hücumlara başlıyarak XIV. asrın son nışfında onu da ortadan kaldırdılar. Kıbrıs Kırallığı'nı da müteaddit hücumlarla hırpaladılar.
+
+MEMLÜKLER DEVLETININ YÜKSELMESI; INKIRAZI
+
+Kuvvetli idare teşkilاتına ve çok muntazam bir orduya malik olan Memlükler İmparatorluğu, İlhanlıların hücumlarını muvaffakiyetle bertaraf ettikten ve Şark Lâtinlerile Ermenilerin siyasi mevcudiyetlerine nihayet verdikten
+
+sora, Şarkı İ Akdenizde büsbütün ehemmiyet kazandı. Sur, Akkâ, Yumurtalık gibi başlıca limanlar ellerine geçtiği için, İskenderiye eski ticari ehemmiyetini yeniden kazandı; Mısır, tekrar Hintten ve Hint Denizi vasıtasıle Uzakşarktan gelen kıymetli ticaret mallarının yegâne pazarı oldu. İmparatorluğun coğrafi mevkiinin bahşettiği bu iktisadi imtiyazdan Memlükler çok istifade ettiler. Memleketlerine giren ve çıkan mallardan malın cinsine göre bazan yüzde elliye kadar yükselen bir gümrük resmi aldıkları halde yine müşterisiz kalmıyorlardı. Akkânın sukutundan sora, Papa, Memlüklerle iktisadi münasebetlerde bulunacakları aforazla tehdit ettiği halde, iktisadi zaruretler ve ihtiyaçlar karşısında bunun hiç hükmü olmamıştı.
+
+Memlükler İmparatorluğunun hudutları, en ziyade geniş-
+
+lediği zamanlarda şöyle idi: Garpta Berkaya kadar Bingazi çölü,

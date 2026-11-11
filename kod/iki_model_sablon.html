@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Model Karşılaştırma</title>
+<style>
+:root {
+  --zemin: #f5f5f2; --kart: #ffffff; --cizgi: #d8d9d3; --yazi: #1d211e; --soluk: #5d6360;
+  --a: #2457b3; --b: #b5461f; --iyi: #1f7a4d; --kotu: #b3261e; --vurgu: #fff3c4;
+  --del: #fbd5d2; --ins: #cfeedd; --kod: #f0f1ec;
+  --mono: ui-monospace, "SF Mono", Menlo, monospace; --govde: -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --zemin: #151816; --kart: #1e2220; --cizgi: #353b38; --yazi: #e4e8e5; --soluk: #9aa19d;
+  --a: #7fa8f0; --b: #f09a74; --iyi: #5fcf98; --kotu: #ff8a80; --vurgu: #4a3f12;
+  --del: #5a2522; --ins: #1d4a33; --kod: #262b28; } }
+:root[data-theme="dark"] {
+  --zemin: #151816; --kart: #1e2220; --cizgi: #353b38; --yazi: #e4e8e5; --soluk: #9aa19d;
+  --a: #7fa8f0; --b: #f09a74; --iyi: #5fcf98; --kotu: #ff8a80; --vurgu: #4a3f12;
+  --del: #5a2522; --ins: #1d4a33; --kod: #262b28; }
+* { box-sizing: border-box }
+body { margin: 0; background: var(--zemin); color: var(--yazi); font: 14px/1.55 var(--govde) }
+main { max-width: 1280px; margin: 0 auto; padding: 24px 16px 64px }
+h1 { font-size: 22px; margin: 0 0 4px } h2 { font-size: 16px; margin: 28px 0 10px }
+.alt { color: var(--soluk); margin: 0 0 18px }
+.A { color: var(--a); font-weight: 600 } .B { color: var(--b); font-weight: 600 }
+.kartlar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px }
+.kutu { background: var(--kart); border: 1px solid var(--cizgi); border-radius: 8px; padding: 12px 14px }
+.kutu b { display: block; font-size: 12px; color: var(--soluk); font-weight: 500; margin-bottom: 4px }
+.kutu .v { font: 600 20px/1.2 var(--govde); font-variant-numeric: tabular-nums }
+.ikili { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 14px }
+.kaydir { overflow-x: auto }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--cizgi); vertical-align: top }
+th { font-size: 12px; color: var(--soluk); font-weight: 600 }
+td.s, th.s { text-align: right; white-space: nowrap }
+.art { color: var(--iyi) } .eks { color: var(--kotu) }
+.filtre { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: var(--kart); border: 1px solid var(--cizgi); border-radius: 8px; padding: 10px 12px; position: sticky; top: 0; z-index: 3 }
+.filtre label { font-size: 12px; color: var(--soluk) }
+select, input { font: inherit; padding: 4px 6px; border: 1px solid var(--cizgi); border-radius: 6px; background: var(--zemin); color: var(--yazi) }
+.sayfa { background: var(--kart); border: 1px solid var(--cizgi); border-radius: 8px; margin-top: 10px }
+.sayfa > summary { cursor: pointer; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; list-style: none }
+.sayfa > summary::-webkit-details-marker { display: none }
+.sayfa > summary .id { font: 600 13px var(--mono) }
+.etiket { font-size: 12px; padding: 1px 7px; border-radius: 10px; background: var(--kod); color: var(--soluk) }
+.cubuk { width: 120px; height: 8px; background: var(--kod); border-radius: 4px; position: relative; display: inline-block; vertical-align: middle }
+.cubuk i { position: absolute; top: 0; height: 8px; border-radius: 4px }
+.ic { padding: 0 12px 14px; display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 14px }
+@media (max-width: 860px) { .ic { grid-template-columns: 1fr } }
+.ic img { width: 100%; border: 1px solid var(--cizgi); border-radius: 4px; background: #fff }
+.testler td { font-size: 13px } .testler td.k { font: 12px/1.45 var(--mono); white-space: pre-wrap; word-break: break-word }
+.testler td.kim { white-space: nowrap; font-size: 12px }
+del { background: var(--del); text-decoration: line-through; text-decoration-color: var(--kotu) }
+ins { background: var(--ins); text-decoration: none }
+.tam { font: 12px/1.5 var(--mono); white-space: pre-wrap; word-break: break-word; max-height: 520px; overflow: auto; background: var(--kod); padding: 10px; border-radius: 6px }
+.sekme { display: flex; gap: 6px; margin: 10px 0 6px; flex-wrap: wrap }
+.sekme button { font: inherit; font-size: 12px; padding: 3px 10px; border: 1px solid var(--cizgi); border-radius: 12px; background: var(--zemin); color: var(--yazi); cursor: pointer }
+.sekme button[aria-pressed="true"] { background: var(--yazi); color: var(--zemin) }
+.vision { background: var(--vurgu); border-radius: 6px; padding: 6px 10px; font-size: 13px; margin: 6px 0 }
+.not { font-size: 12px; color: var(--soluk) }
+</style>
+</head>
+<body>
+<main>
+  <h1><span class="A" id="adA"></span> ile <span class="B" id="adB"></span> karşılaştırması</h1>
+  <p class="alt" id="alt"></p>
+  <div class="kartlar" id="kartlar"></div>
+
+  <div class="ikili">
+    <div><h2>Test aileleri</h2><div class="kutu kaydir"><table id="aile"></table></div>
+      <p class="not">"A geçti B kaldı": aynı testte biri geçip öteki kaldığı durumların sayısı.</p></div>
+    <div><h2>Doğru metin taslağının kaynağına göre kullanılabilirlik</h2><div class="kutu kaydir"><table id="taslak"></table></div>
+      <p class="not">Doğru metin bu modelin taslağından başlayıp insan kontrolüyle düzeltildi. Taslak modelinin kendi sayfalarında avantajı olabilir.</p>
+      <h2>Kategori bazında kullanılabilirlik</h2><div class="kutu kaydir"><table id="kat"></table></div></div>
+  </div>
+
+  <h2>Sayfalar: <span class="B" id="adB2"></span> modelinin <span class="A" id="adA2"></span> modeline göre puan kaybettiği yerler</h2>
+  <p class="not">Varsayılan görünüm puanlayıcının gördüğü metindir: kalın/italik, başlık, tablo yazımı, tırnak türü ve boşluk silinmiş, üst/alt simge <code>^{…}</code>/<code>_{…}</code> olarak gösterilmiş haliyle. Bu görünümde işaretli farklar gerçekten ceza alan farklardır. "Ham metin" görünümü dosyadaki yazımı gösterir; oradaki biçim farklarının çoğu puana girmez.</p>
+  <div class="filtre">
+    <label>Görünüm <select id="f-gor"><option value="n">Puanlayıcının gördüğü</option><option value="h">Ham metin</option></select></label>
+    <label>Kategori <select id="f-kat"><option value="">Hepsi</option></select></label>
+    <label>Taslak <select id="f-tas"><option value="">Hepsi</option></select></label>
+    <label>Aile <select id="f-aile"><option value="">Hepsi</option></select></label>
+    <label><input type="checkbox" id="f-vis"> Yalnız Vision'ın <span id="adB3"></span> modelini desteklediği sayfalar</label>
+    <label>Sayfa <input id="f-ara" placeholder="id ara" size="14"></label>
+    <span class="not" id="f-say"></span>
+  </div>
+  <div id="liste"></div>
+</main>
+<script>
+const V = /*__VERI__*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const f1 = v => v == null ? '–' : v.toFixed(1).replace('.', ',');
+const A = V.A, B = V.B, OA = V.ozet[A], OB = V.ozet[B];
+['#adA', '#adA2'].forEach(s => $(s).textContent = A); ['#adB', '#adB2', '#adB3'].forEach(s => $(s).textContent = B);
+$('#alt').textContent = `${V.sayfalar.length} sayfada ${B} modelinin sayfa kullanılabilirliği ${A} modelinden ${(100 * V.esik).toFixed(0)} puandan fazla düşük. Sayfalar farkın büyüklüğüne göre sıralı.`;
+const fark = (a, b) => { const d = b - a; return `<span class="${d >= 0 ? 'art' : 'eks'}">${d >= 0 ? '+' : ''}${f1(d)}</span>`; };
+$('#kartlar').innerHTML = [['TOB-Skor', 'tob'], ['Doğruluk', 'dog'], ['Kullanılabilirlik', 'kul'], ['Temiz sayfa %', 'temiz']].map(([ad, k]) =>
+  `<div class="kutu"><b>${ad}</b><div class="v"><span class="A">${f1(OA[k])}</span> · <span class="B">${f1(OB[k])}</span></div><div class="not">fark ${fark(OA[k], OB[k])}</div></div>`).join('');
+const AILE = Object.keys(OA.aile).filter(k => OA.aile[k] != null);
+$('#aile').innerHTML = `<thead><tr><th>Aile</th><th class="s A">${esc(A)}</th><th class="s B">${esc(B)}</th><th class="s">Fark</th><th class="s">A geçti B kaldı</th><th class="s">B geçti A kaldı</th></tr></thead><tbody>` +
+  [...AILE, 'kapsam'].map(k => `<tr><td>${k}</td><td class="s">${f1(OA.aile[k])}</td><td class="s">${f1(OB.aile[k])}</td><td class="s">${OA.aile[k] == null ? '–' : fark(OA.aile[k], OB.aile[k])}</td><td class="s">${V.aile_say[k + '|a'] || 0}</td><td class="s">${V.aile_say[k + '|b'] || 0}</td></tr>`).join('') + '</tbody>';
+$('#taslak').innerHTML = `<thead><tr><th>Taslak</th><th class="s">Sayfa</th><th class="s A">${esc(A)}</th><th class="s B">${esc(B)}</th><th class="s">Fark</th></tr></thead><tbody>` +
+  V.taslak.map(([t, n, a, b]) => `<tr><td>${esc(t)}</td><td class="s">${n}</td><td class="s">${f1(a)}</td><td class="s">${f1(b)}</td><td class="s">${fark(a, b)}</td></tr>`).join('') + '</tbody>';
+$('#kat').innerHTML = `<thead><tr><th>Kategori</th><th class="s A">${esc(A)}</th><th class="s B">${esc(B)}</th><th class="s">Fark</th></tr></thead><tbody>` +
+  Object.keys(OA.kat).sort().map(k => `<tr><td>${k}</td><td class="s">${f1(OA.kat[k])}</td><td class="s">${f1(OB.kat[k])}</td><td class="s">${fark(OA.kat[k], OB.kat[k])}</td></tr>`).join('') + '</tbody>';
+
+// kısa parçalarda kelime farkı (doğru metne göre)
+function kelimeFark(gt, h) {
+  const a = gt.split(/(\s+)/), b = h.split(/(\s+)/);
+  if (a.length * b.length > 40000) return esc(h);
+  const L = Array.from({length: a.length + 1}, () => new Int16Array(b.length + 1));
+  for (let i = a.length - 1; i >= 0; i--) for (let j = b.length - 1; j >= 0; j--) L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  let i = 0, j = 0, y = '';
+  while (i < a.length && j < b.length) {
+    if (a[i] === b[j]) { y += esc(b[j]); i++; j++; }
+    else if (L[i + 1][j] >= L[i][j + 1]) { if (a[i].trim()) y += `<del>${esc(a[i])}</del>`; i++; }
+    else { y += b[j].trim() ? `<ins>${esc(b[j])}</ins>` : esc(b[j]); j++; }
+  }
+  while (i < a.length) { if (a[i].trim()) y += `<del>${esc(a[i])}</del>`; i++; }
+  while (j < b.length) { y += b[j].trim() ? `<ins>${esc(b[j])}</ins>` : esc(b[j]); j++; }
+  return y;
+}
+function testTablo(xs, bos) {
+  if (!xs.length) return `<p class="not">${bos}</p>`;
+  const n = $('#f-gor').value === 'n';
+  xs = xs.map(t => n && t.ngt ? {...t, gt: t.ngt, a: t.na, b: t.nb} : t);
+  return `<div class="kaydir"><table class="testler"><thead><tr><th>Aile</th><th>Test</th><th>Doğru metin</th><th class="A">${esc(A)}</th><th class="B">${esc(B)}</th></tr></thead><tbody>` +
+    xs.map(t => `<tr><td class="kim">${t.aile}<br><span class="not">${esc(t.tur)}</span></td><td class="k">${esc(t.test)}</td><td class="k">${esc(t.gt)}</td>
+      <td class="k">${t.gt ? kelimeFark(t.gt, t.a) : esc(t.a)}</td><td class="k">${t.gt ? kelimeFark(t.gt, t.b) : esc(t.b)}</td></tr>`).join('') + '</tbody></table></div>';
+}
+function ac(d, s) {
+  if (d.dataset.dolu) return;
+  d.dataset.dolu = 1;
+  const n = $('#f-gor').value === 'n';
+  const vis = s.vision.length ? `<div class="vision"><b>Vision ${esc(B)} modelini destekliyor</b> (doğru metin hatası adayı): ` +
+    s.vision.map(([g, h]) => `doğru metin <code>${esc(g)}</code> · ${esc(B)} <code>${esc(h)}</code>`).join(' &nbsp;|&nbsp; ') + '</div>' : '';
+  d.insertAdjacentHTML('beforeend', `<div class="ic">
+    <div><a href="${esc(s.img)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(s.img)}" alt="${esc(s.id)} sayfa görüntüsü"></a>
+      <p class="not">Görsele tıklayınca tam boy açılır.</p></div>
+    <div>${vis}
+      <p><b>${esc(B)} hata türleri:</b> ${s.tur_b.map(([n, t]) => `${esc(t)} ${n}`).join(' · ') || 'yok'}<br>
+         <b>${esc(A)} hata türleri:</b> ${s.tur_a.map(([n, t]) => `${esc(t)} ${n}`).join(' · ') || 'yok'}</p>
+      <h3 style="font-size:14px;margin:10px 0 4px"><span class="A">${esc(A)}</span> geçti, <span class="B">${esc(B)}</span> kaldı (${s.satir.a.length})</h3>
+      ${testTablo(s.satir.a, 'Yok.')}
+      <details><summary style="cursor:pointer;margin-top:8px"><span class="B">${esc(B)}</span> geçti, <span class="A">${esc(A)}</span> kaldı (${s.satir.b.length})</summary>${testTablo(s.satir.b, 'Yok.')}</details>
+      <div class="sekme" role="group">
+        <button aria-pressed="true" data-k="${n ? 'nfb' : 'fb'}">${esc(B)} farkı</button><button aria-pressed="false" data-k="${n ? 'nfa' : 'fa'}">${esc(A)} farkı</button><button aria-pressed="false" data-k="gt">Doğru metin (ham)</button></div>
+      <div class="tam">${n ? s.nfb : s.fb}</div>
+      <p class="not">Farklar doğru metne göre: <del>silik</del> doğru metinde olup çıktıda olmayan, <ins>yeşil</ins> çıktıda fazla olan. ${n ? 'Puanlayıcının gördüğü metin üzerinden.' : 'Ham metin üzerinden: biçim farklarının çoğu puana girmez.'}
+        <b>Tablolar</b> burada düz yazı gibi sıralanır; puanlayıcı ise hücreleri yapıyla (komşu ve başlık ilişkisi) karşılaştırır. Değerleri hücrede alt alta yazmak ile ayrı satırlara bölmek aynı sayılır, ama düz yazıda sıraları farklı göründüğü için bu panelde hata gibi boyanır.</p>
+    </div></div>`);
+  d.querySelectorAll('.sekme button').forEach(b => b.onclick = () => {
+    d.querySelectorAll('.sekme button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    d.querySelector('.tam').innerHTML = s[b.dataset.k];
+  });
+}
+const doldur = (sel, vals) => sel.insertAdjacentHTML('beforeend', vals.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join(''));
+doldur($('#f-kat'), [...new Set(V.sayfalar.map(s => s.kat))].sort());
+doldur($('#f-tas'), [...new Set(V.sayfalar.map(s => s.taslak))].sort());
+doldur($('#f-aile'), [...new Set(V.sayfalar.flatMap(s => s.satir.a.map(t => t.aile)))].sort());
+function ciz() {
+  const k = $('#f-kat').value, t = $('#f-tas').value, a = $('#f-aile').value, v = $('#f-vis').checked, q = $('#f-ara').value.trim();
+  const xs = V.sayfalar.filter(s => (!k || s.kat === k) && (!t || s.taslak === t) && (!a || s.satir.a.some(x => x.aile === a)) && (!v || s.vision.length) && (!q || s.id.includes(q)));
+  $('#f-say').textContent = `${xs.length} sayfa`;
+  $('#liste').innerHTML = xs.map((s, i) => {
+    const d = 100 * (s.ua - s.ub);
+    return `<details class="sayfa" data-i="${V.sayfalar.indexOf(s)}"><summary>
+      <span class="id">${esc(s.id)}</span><span class="etiket">${esc(s.kat)}</span><span class="etiket">taslak: ${esc(s.taslak)}</span>
+      <span><span class="A">${f1(100 * s.ua)}</span> → <span class="B">${f1(100 * s.ub)}</span></span>
+      <span class="cubuk" title="fark ${f1(d)}"><i style="left:${100 * s.ub}%;width:${d}%;background:var(--b)"></i></span>
+      <span class="not">${esc(B)}: ${s.hb[0]}, kritik ${s.hb[1]}, orta ${s.hb[2]} · ${esc(A)}: ${s.ha[0]}, kritik ${s.ha[1]}, orta ${s.ha[2]}</span>
+      ${s.vision.length ? '<span class="etiket" style="background:var(--vurgu)">Vision</span>' : ''}</summary></details>`;
+  }).join('');
+  document.querySelectorAll('#liste details').forEach(d => d.addEventListener('toggle', () => d.open && ac(d, V.sayfalar[+d.dataset.i])));
+}
+['#f-kat', '#f-tas', '#f-aile', '#f-vis', '#f-gor'].forEach(s => $(s).onchange = ciz); $('#f-ara').oninput = ciz;
+ciz();
+</script>
+</body>
+</html>

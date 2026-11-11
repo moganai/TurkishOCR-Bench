@@ -1,0 +1,5 @@
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">GÖNDERICI</td><td colspan="2">ALICI</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ad Soyad\nAyrıan Türk\nAdres\nFatih Mah. Akasya Sok. No: 52 Şehitkamil / Gaziantep\nTelefon\n0 (544) 895 84 01</td><td colspan="3">Ad Soyad\nMürit Inonü\nAdres\nBahçelievler Mah. Menekşe Sk No: 11 D. 6 Buca / İzmir\nTelefon\n(533) 974 98 17</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>içerlik\nEu tekstili</td><td style='text-align: center; word-wrap: break-word;'>Ağırlık\n12,7 kg</td><td style='text-align: center; word-wrap: break-word;'>Desi\n24</td><td style='text-align: center; word-wrap: break-word;'>Adet\n1</td></tr></table>
+
+Từ: Dosya Paket Koli Ödeme: Gönderici Ödemeli Alici Ödemeli
+
+Tarih: 31.08.2025

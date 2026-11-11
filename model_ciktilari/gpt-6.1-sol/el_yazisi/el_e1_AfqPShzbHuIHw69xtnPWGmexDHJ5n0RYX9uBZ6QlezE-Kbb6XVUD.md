@@ -1,0 +1,29 @@
+# İLKLER
+
+- İlk yerli roman: Şemsettin Sami / Taaşşuk-ı Talat ve Fitnat
+- İlk çeviri roman: Yusuf Kamil Paşa / Telemak
+- İlk tarihi roman: Namık Kemal / Cezmi
+- İlk edebi roman: Namık Kemal / İntibah
+- İlk realist roman: R.M. Ekrem / Araba Sevdası
+- İlk köy romanı: Nabizade Nazım / Karabibik
+- İlk psikolojik roman: Mehmet Rauf / Eylül
+- İlk natüralist roman: Nabizade Nazım / Zehra
+- İlk köy şiiri: Muallim Naci / Köylü Kızların Şarkısı
+- İlk pastoral şiir: Abdülhak H.T / Sahra
+- Kafiyesiz ilk şiir: A.H.T / Validem
+- İlk yerli tiyatro: Şinasi / Şair Evlenmesi
+- Aruzla yazılan ilk tiyatro: A.H.T / Eşber
+- Heceyle " " : A.H.T / Nesteren
+- Sahnelenen ilk tiyatro: Namık K / Vatan yahut Silistre
+- İlk resmi Türkçe gazete: Takvim-i Vekayi
+- İlk yarı resmi gazete: Ceride-i Havadis
+- İlk özel Türkçe gazete: Tercüman-ı Ahval
+- İlk makale: Şinasi / Tercüman-ı Ahval Mukaddimesi
+- İlk antoloji: Ziya Paşa / Harabat
+- İlk röportaj örneği: Ziya Paşa / Rüya
+- İlk edebi bilgiler kitabı: R.M.E / Talim-i Edebiyat
+- İlk atasözleri kitabı: Şinasi / Durub-ı Emsal-i Osmaniye
+- İlk hiciv: A.M. Efendi / Letaif-i Rivayet
+- İlk mizah dergisi: Teodor Kasap / Diyojen
+- Batılı anlamda ilk öykü örnekleri: Samipaşazade S / Küçük Şeyler
+- İlk dergi örneği: Münif Paşa / Mecmua-i Fünun

@@ -1,0 +1,10 @@
+# Puanlama betikleri için. Formüller için ayrıca Node.js gerekir (node komutu PATH'te olmalı; KaTeX kod/katex içinde gelir).
+apted
+beautifulsoup4
+lxml
+rapidfuzz
+scipy
+numpy
+wordfreq     # oku_testler.py: nadir kelime tespiti
+zeyrek       # oku_puanla.py: kök/ek ayrımı
+huggingface_hub  # veri_indir.py: sayfa görüntüleri ve doğru metin

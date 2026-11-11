@@ -1,0 +1,7 @@
+cegi cihetle müşarünileyhin tevkifine ve kolorduca da bunun için muvenette bulunulmasına hal ve vaziyetin katiyan müsait olmadığını arzeylerim. Bahusus ki memleketi helâk ve inkiraz tehlikesinden kurtaracak yegâne çarenin tevekkül değil, ancak milletin hak ve ruhunu âleme arışı izhar ve teyit kanaatinde olan vilâyat şarkiyede ve henüz Ermeni süngü ve baltalarının âlamı namus şikenanesini unutmuş bir tek insan ve bir tek hanüman bulunmayan bu muhitte böyle bir teşebbüsün icrası değil hatâ ihsası bile büyük fenalıklar inşa eder.
+
+Esasen günden güne daha bariz ve pek vâsi bir şekilde almakta olan endişei milliyi tatmin edecek tedabiri sahiha ve vakifanenin ittihazı ve buna bilhassa zatı samileri gibi dindar ve pek namuskâr tanınmış bir recülü kıymettarın imâli nüfus ve irşat buyurması pek ulvi ve tarihlulur. Herhalde bura ahvalinin İstanbulda maküs telâkki edildiğini zannediyorum. Hükümetin en sadık ve hürmetkâr bir cüz'i olduğunu katiyen şüphe caiz olmayan acizleri Anadoluya Dersaadetten bu kadar yanlış ve hatalı nazarlarla bakılmamasını ve çünkü bu nazar netayicinin pek elim ve nedametaver olacağı kanaatini namus addeder ve bugün acizleri dahi şek ve meçhuliyet içerisinde bulunduğumdan siyaseti umumiyemizden ve hükümetin takip ettiği makasıt ve mukarrerattan haberdar edilmek-ligimi istirham eylerim.
+
+#### 15. K. Kumandani Kázim Karabekir
+
+Erzurum kongresini Mustafa Kemal Paşa ve Rauf beyin topladığı zanniyle kongrenin dağıtılması ve Musa

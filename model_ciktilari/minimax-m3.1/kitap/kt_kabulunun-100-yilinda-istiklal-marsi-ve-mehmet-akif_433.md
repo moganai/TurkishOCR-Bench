@@ -1,0 +1,15 @@
+<header>Ilrijana KACELI (Demirka) | 421</header>
+
+Akif’in her ne kadar bu topraklardan uzakta doğup büyümüşse de Armavut topraklarını unutmayıp Armavutluları derleri ile hem hal olduğunu bahsetmektedir.
+
+Yazar Ledian Çikalleshı, 2010 yılında “Türk Bayrağının Marşını Yazan Armavut” başlıklı bir makale yayımladı. Bu makale doğu çalışmaları dergisi “URA”’da yayımlandı. Makalede Mehmet Akif’in Armavut bir babayla Türkiye’de doğduğu ve annesinin Türk olduğu gösterilse de, babasının kökenini inkar etmemekte, şirlerinde Armavut olduğunu açıkça belirtmektedir. Sözlerine şöyle devam etmektedir: “Balkan sayısı başladığında bütün konsularımız topraklarımız göç dikmişlerdi Osmanlı ordusunun hareketle geçmemesi sonucu bir takım boş kafalı komutanlar birçok yaşlımı, kadını, çocuğunu öldürmüne neden oldular. Bunların karşısında Mehmet Akif, bu duruma duyarsız kalmıyor, Armavutları kurtarmaları için camilere çıkıp insanları davet ediyordu.” Bunun ardından Çikalleshı, Akif’in üç beynisiz kafanın derdine, üç milyon halık diye başlayan şiirinin tahlili ile devam etmektedir. Yazının sonunda yine Akif için şu sözleri söylemektedir: “Mehmet Akif, İslâm dünyasının yetiştirdiği Armavut asilli çok önemli bir değerdir. O akıllarımızda her zaman kendi kökenini unutmayan, Armavut olduğunu açık açık söyleyen ve Armavutlara yardım etmeleri konusunda insanları teşvik etmeye çalışan, biri olarak kalacaktır”<sup>34</sup>.
+
+Robert Elsie, 2011’de önde gelen bir Armavut bilimci olarak “Kosova’nın Tarihsel Sözlüğü”nü yayınlayacaktır. Bu yazımızda ayrıca Mehmet Akif Ersoy figürü ve kişiliğinden de bahsedeceğiz<sup>35</sup>.
+
+“Zani i Naltë” dergisinde tarih bilgilerinden Eduard Çaka, “Një Shqiptar në shërbim të njerëzimit: Mehmet Akif Ersoy” (İnsanlık yararına bir Armavut: Mehmet Akif Ersoy) makalesini yayınlayacaktır<sup>36</sup>. Çaka yazısında, Armavutların asırlarca insanlığın yararına çok değerli şahsiyetler yetiştirdiklerini söylerken sözlerine şöyle devam etmektedir: “Armavut milletinin insanlığa şehirlilik kültürünü vermemiş oldukları bir gerçektir fakat bu milletin çocuklarının insanlığın gelişiminde olağanüstü emekleri vardır. İster doğu ister Batı kültüründe Armavutların büyük emekleri olmuştur. Yine insanlığa büyük bir faydası olan bu şahsiyetlerden biri de hiç şüphesiz ki Mehmet Akif Ersoy’dur. Kişiliği ile insanlığa büyük katkısı olan Akif’in, kökeni İpek kasabasının Şuşista köyüne dayanmaktadır. Akif, Türkiye’de “İstiklâl Marşı’nı” yazarı ve Türkiye’nin önde gelen değerlerindendir. Şirlerinde, düşüncelerinde karşımıza bir idealist olarak çıkmaktadır, sorunlar onun karşısında bir insanlık sorunudur.
+
+34 Çikalleshı, a.g.m., s. 21-23.
+
+35 Robert Elsie, “Akif, Mehmet 1873-December 1936”, Historical Dictionary of Kosovo, Second edition, The Scarecrow Press, Toronto, UK 2011, s. 22-23.
+
+36 Çaka, a.g.m., s. 88-99.

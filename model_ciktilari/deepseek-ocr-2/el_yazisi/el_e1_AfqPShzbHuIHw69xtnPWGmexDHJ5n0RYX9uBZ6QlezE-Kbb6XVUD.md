@@ -1,0 +1,114 @@
+# İLKÇEL
+
+- İlk yeri roman: Sönmez / Tazekk: Tola ve fırtıra
+- İlk eser: Tarihsel / Tasarımcı: Tarihsel / Tasarımcı
+- İlk yeri roman: Nokta / Tazekk: Nokta
+- İlk eser: Nokta / Tasarımcı: Nokta
+- İlk yeri roman: Nokta / Tazekk: Nokta
+- İlk eser: Nokba / Tasarımcı: Nokba
+- İlk yeri roman: Nokta / Tazekk: Nokta
+- İlk eser: Nokta / Tasarımcı: Nokta
+- İlk yeri roman: Nokta / Tazekk: Nokta
+- İlk eser: Nokba / Tasarımcı: Nokba
+- İlk yeri roman: Nokta / Tazekk: Nokba
+- İlk eser: Nokba / Tasarımcı: Nokba
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: Nox / Taserımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eseri: Nox / Tasarımcı: Nox
+- İlk yeri roman: Nox / Tazekk: Nox
+- İlk eser: N

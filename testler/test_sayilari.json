@@ -1,0 +1,98 @@
+{
+ "metin": {
+  "akademik": 2771,
+  "taranmis": 1797,
+  "kitap": 1611,
+  "resmi_eski": 1308,
+  "resmi_yeni": 1362,
+  "tablo": 1366,
+  "formul": 2491,
+  "slayt": 219,
+  "fis_fatura_form": 1254,
+  "el_yazisi": 460
+ },
+ "turkce": {
+  "akademik": 13189,
+  "taranmis": 8046,
+  "kitap": 7803,
+  "resmi_eski": 4563,
+  "resmi_yeni": 7068,
+  "tablo": 8432,
+  "formul": 7117,
+  "slayt": 920,
+  "fis_fatura_form": 1147,
+  "el_yazisi": 1537
+ },
+ "sayi": {
+  "akademik": 1547,
+  "taranmis": 1654,
+  "kitap": 772,
+  "resmi_eski": 1283,
+  "resmi_yeni": 769,
+  "tablo": 4293,
+  "formul": 4406,
+  "slayt": 55,
+  "fis_fatura_form": 1604,
+  "el_yazisi": 179
+ },
+ "tablo": {
+  "akademik": 128,
+  "taranmis": 692,
+  "resmi_eski": 416,
+  "tablo": 3197,
+  "formul": 1152,
+  "slayt": 46,
+  "el_yazisi": 80
+ },
+ "formul": {
+  "akademik": 12,
+  "tablo": 13,
+  "formul": 220,
+  "slayt": 2,
+  "el_yazisi": 11
+ },
+ "tire": {
+  "akademik": 333,
+  "taranmis": 487,
+  "kitap": 284,
+  "resmi_eski": 289,
+  "tablo": 83,
+  "formul": 15,
+  "slayt": 2,
+  "el_yazisi": 8
+ },
+ "olmamali": {},
+ "temel": {
+  "akademik": 60,
+  "taranmis": 59,
+  "kitap": 50,
+  "resmi_eski": 29,
+  "resmi_yeni": 35,
+  "tablo": 60,
+  "formul": 60,
+  "slayt": 35,
+  "fis_fatura_form": 50,
+  "el_yazisi": 50
+ },
+ "kapsam": {
+  "akademik": 2964,
+  "taranmis": 1746,
+  "kitap": 1719,
+  "resmi_eski": 1160,
+  "resmi_yeni": 1483,
+  "tablo": 1413,
+  "formul": 2309,
+  "slayt": 214,
+  "fis_fatura_form": 509,
+  "el_yazisi": 437
+ },
+ "sira": {
+  "akademik": 300,
+  "taranmis": 486,
+  "kitap": 212,
+  "resmi_eski": 429,
+  "resmi_yeni": 207,
+  "tablo": 218,
+  "formul": 329
+ }
+}

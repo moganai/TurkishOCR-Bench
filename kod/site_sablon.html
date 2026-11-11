@@ -1,0 +1,313 @@
+<title>TurkishOCR-Bench Sonuçları</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* Düzen: kâğıt zemin, 2px mürekkep çerçeveler, kobalt bölüm başlıkları, sıfır yuvarlak köşe; 1100px tek sütun */
+:root {
+  --kagit: #f4f5f2; --tane: #e9ece6; --murekkep: #1b211d; --soluk: #434652; --cizgi: #c3c6d4;
+  --kobalt: #254a96; --kobalt-acik: #2d5bb8; --kobalt-uzeri: #ced9ff; --beyaz: #ffffff;
+  --yesil: #006c48; --deniz: #52c994; --deniz-acik: #92f7c3; --hata: #ba1a1a; --turuncu: #ffb68a; --sari: #e0a100;
+  --display: 'Hanken Grotesk', 'Helvetica Neue', Arial, sans-serif;
+  --govde: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --kagit: #141815; --tane: #1d231f; --murekkep: #e3e8e1; --soluk: #a7acb8; --cizgi: #3a4140;
+  --kobalt: #3d64b8; --kobalt-acik: #4d72c4; --kobalt-uzeri: #e2e8ff; --beyaz: #ffffff;
+  --yesil: #52c994; --deniz: #3fae7e; --deniz-acik: #1f5a40; --hata: #ff8a80; --turuncu: #ffb68a; --sari: #f2c14e; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --kagit: #141815; --tane: #1d231f; --murekkep: #e3e8e1; --soluk: #a7acb8; --cizgi: #3a4140;
+  --kobalt: #3d64b8; --kobalt-acik: #4d72c4; --kobalt-uzeri: #e2e8ff; --beyaz: #ffffff;
+  --yesil: #52c994; --deniz: #3fae7e; --deniz-acik: #1f5a40; --hata: #ff8a80; --turuncu: #ffb68a; --sari: #f2c14e; color-scheme: dark }
+* { box-sizing: border-box; border-radius: 0 !important }
+body { background: var(--kagit); color: var(--murekkep); font: 15px/1.6 var(--govde); -webkit-font-smoothing: antialiased }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--murekkep) }
+::selection { background: var(--kobalt); color: var(--beyaz) }
+a { color: var(--kobalt-acik) }
+.ust { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--murekkep); color: var(--kagit); border-bottom: 2px solid var(--murekkep) }
+.ust .ic { max-width: 1100px; margin: 0 auto; padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: flex; gap: 18px; align-items: center; flex-wrap: wrap }
+.ust b { font: 800 16px var(--display); letter-spacing: .02em; text-transform: uppercase }
+.ust nav { display: flex; gap: 14px; flex-wrap: wrap; font: 500 12px var(--mono); text-transform: uppercase; letter-spacing: .06em }
+.ust nav a { color: var(--kagit); opacity: .8; text-decoration: none } .ust nav a:hover, .ust nav a:focus-visible { opacity: 1; text-decoration: underline }
+main { max-width: 1100px; margin: 0 auto; padding-block: 48px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: flex; flex-direction: column; gap: 72px }
+section { display: flex; flex-direction: column; gap: 22px; min-width: 0 }
+.baslik { align-self: flex-start; background: var(--kobalt); color: var(--beyaz); border: 2px solid var(--murekkep); padding: 12px 18px; position: relative }
+.baslik h2 { margin: 0; font: 800 clamp(18px, 2.6vw, 24px)/1.15 var(--display); text-transform: uppercase; letter-spacing: -.01em; text-wrap: balance }
+.egik { position: relative } .egik::before { content: ''; position: absolute; top: 0; right: 0; width: 16px; height: 16px; background: var(--murekkep); clip-path: polygon(100% 0, 0 0, 100% 100%) }
+.egik-y::before { background: var(--deniz) }
+p.giris { margin: 0; max-width: 68ch; color: var(--soluk) }
+.hero h1 { margin: 0; font: 900 clamp(34px, 6vw, 64px)/1 var(--display); letter-spacing: -.02em; text-transform: uppercase; text-wrap: balance }
+.hero h1 span { color: var(--kobalt-acik) }
+.hero p { margin: 0; max-width: 64ch; font-size: 17px; color: var(--soluk) }
+.olgu { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); border: 2px solid var(--murekkep); background: var(--tane) }
+.olgu div { padding: 14px 16px; border-right: 2px solid var(--murekkep); display: flex; flex-direction: column; gap: 2px }
+.olgu div:last-child { border-right: 0 }
+.olgu b { font: 800 28px/1 var(--display); font-variant-numeric: tabular-nums }
+.olgu span { font: 500 11px var(--mono); text-transform: uppercase; letter-spacing: .07em; color: var(--soluk) }
+.kutu { border: 2px solid var(--murekkep); background: var(--tane); min-width: 0 }
+.kutu > .kb { padding: 12px 16px; border-bottom: 2px solid var(--murekkep); display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap }
+.kutu > .kb h3 { margin: 0; font: 700 15px var(--display); text-transform: uppercase; letter-spacing: .02em }
+.kutu > .kb small { font: 400 12px var(--mono); color: var(--soluk) }
+.kaydir { overflow-x: auto }
+table { border-collapse: collapse; width: 100%; font: 13px/1.4 var(--mono); font-variant-numeric: tabular-nums }
+th { background: var(--kobalt-acik); color: var(--kobalt-uzeri); text-align: left; font: 600 11px var(--mono); text-transform: uppercase; letter-spacing: .05em; padding: 9px 10px; border-bottom: 2px solid var(--murekkep); border-right: 1px solid var(--murekkep); white-space: nowrap }
+td { padding: 8px 10px; border-bottom: 1px solid var(--cizgi); border-right: 1px solid var(--cizgi); white-space: nowrap }
+td.sag, th.sag { text-align: right }
+tr.biz td { background: color-mix(in srgb, var(--deniz) 16%, transparent); font-weight: 700 }
+tr.biz td:first-child, tr.biz td:nth-child(2) { color: var(--yesil) }
+tbody tr:hover td { background: color-mix(in srgb, var(--kobalt-acik) 9%, transparent) }
+.cubuk { position: relative; height: 14px; min-width: 160px; background: var(--kagit); border: 1px solid var(--murekkep) }
+.cubuk i { position: absolute; top: 0; bottom: 0; left: 0; background: var(--kobalt-acik) }
+.cubuk u { position: absolute; top: 5px; height: 2px; background: var(--murekkep) }
+.cubuk s { position: absolute; top: 2px; width: 2px; height: 8px; background: var(--murekkep) }
+.yigin { display: flex; height: 14px; min-width: 150px; border: 1px solid var(--murekkep) }
+.yigin i { display: block; height: 100% } .y-t { background: var(--deniz) } .y-d { background: var(--sari) } .y-g { background: var(--hata) }
+.lejant { display: flex; gap: 14px; flex-wrap: wrap; font: 12px var(--mono); color: var(--soluk); padding: 10px 16px }
+.lejant span::before { content: ""; display: inline-block; width: 10px; height: 10px; margin-right: 6px; vertical-align: -1px; border: 1px solid var(--murekkep) }
+.lejant .l-t::before { background: var(--deniz) } .lejant .l-d::before { background: var(--sari) } .lejant .l-g::before { background: var(--hata) }
+td.isi { text-align: right; color: var(--murekkep) }
+.kurallar { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px }
+.kural { border: 2px solid var(--murekkep); background: var(--tane); padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 8px; min-width: 0 }
+.kural h4 { margin: 0; font: 800 14px var(--display); text-transform: uppercase; letter-spacing: .03em; display: flex; align-items: center; gap: 8px }
+.kural ul { margin: 0; padding-left: 18px; font-size: 14px } .kural li { margin: 2px 0 }
+.serit { width: 12px; height: 12px; border: 1px solid var(--murekkep); display: inline-block }
+.formul-kutu { border: 2px solid var(--murekkep); background: var(--murekkep); color: var(--kagit); padding: 16px 18px; font: 14px/1.7 var(--mono); overflow-x: auto }
+.formul-kutu b { color: var(--deniz) }
+.secim { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; padding: 12px 16px; border-bottom: 2px solid var(--murekkep) }
+.secim label { font: 600 11px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--soluk); display: flex; gap: 6px; align-items: center }
+select, input[type=search] { font: 13px var(--mono); padding: 6px 8px; border: 2px solid var(--murekkep); background: var(--kagit); color: var(--murekkep) }
+select:focus-visible, input:focus-visible, button:focus-visible, tr:focus-visible { outline: 3px solid var(--kobalt-acik); outline-offset: 1px }
+.izgara2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px }
+.cip { display: inline-block; min-width: 18px; padding: 0 4px; margin-right: 2px; font: 600 11px/18px var(--mono); text-align: center; color: var(--murekkep); border: 1px solid var(--murekkep) }
+.cip.t { background: var(--deniz) } .cip.d { background: var(--sari) } .cip.g { background: var(--hata); color: var(--beyaz) }
+#liste tbody tr { cursor: pointer } #liste tbody tr.sec td { background: color-mix(in srgb, var(--kobalt-acik) 18%, transparent) }
+.ayrinti { padding: 16px; display: flex; flex-direction: column; gap: 14px }
+.mrow { border: 1px solid var(--murekkep); background: var(--kagit) }
+.mrow > div:first-child { display: flex; gap: 10px; align-items: center; padding: 8px 12px; border-bottom: 1px solid var(--cizgi); font: 600 13px var(--mono); flex-wrap: wrap }
+.mrow ul { margin: 0; padding: 8px 12px 10px 28px; font: 12.5px/1.55 var(--mono) } .mrow li { margin: 1px 0; word-break: break-word }
+.mrow .yok { padding: 8px 12px; font: 12.5px var(--mono); color: var(--soluk) }
+.siddet-k { color: var(--hata); font-weight: 700 } .siddet-o { color: var(--sari); font-weight: 700 } .siddet-h { color: var(--soluk) }
+del { background: color-mix(in srgb, var(--hata) 15%, transparent); text-decoration: none; padding: 0 2px }
+ins { background: color-mix(in srgb, var(--deniz) 22%, transparent); text-decoration: none; padding: 0 2px }
+.not { font: 12px var(--mono); color: var(--soluk); padding: 10px 16px }
+footer { border-top: 2px solid var(--murekkep); background: var(--tane) }
+footer .ic { max-width: 1100px; margin: 0 auto; padding-block: 20px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); font: 12px var(--mono); color: var(--soluk); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap }
+@media (max-width: 640px) { .olgu div { border-right: 0; border-bottom: 2px solid var(--murekkep) } .olgu div:last-child { border-bottom: 0 } main { gap: 52px } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto } }
+html { scroll-behavior: smooth }
+</style>
+
+<header class="ust"><div class="ic">
+  <b>TurkishOCR-Bench</b>
+  <nav aria-label="Bölümler">
+    <a href="#ana-skor">Ana skor</a><a href="#kategori">Kategoriler</a><a href="#yontem">Yöntem</a><a href="#aileler">Test aileleri</a>
+    <a href="#ek">Ek ölçüler</a><a href="#model">Model ayrıntısı</a><a href="#yanlilik">Yanlılık</a><a href="#testler">Test sayıları</a><a href="#gezgin">Sayfa gezgini</a>
+  </nav>
+</div></header>
+
+<main>
+  <section class="hero">
+    <h1>Türkçe belge OCR'ı için <span>sayfa sayfa</span> sınav</h1>
+    <p>TurkishOCR-Bench, modellerin bir sayfayı ne kadar doğru okuduğunu ve çıktının elle düzeltmeye ne kadar az ihtiyaç duyduğunu ölçer. Doğru metin dört modelin taslağından, Claude hakeminden ve satır satır insan kontrolünden geçti; burada yalnız insan onayı tamamlanmış sayfalar var. Biçim farkı ceza almaz, okuma hatası alır.</p>
+    <div class="olgu" id="olgular"></div>
+  </section>
+
+  <section id="ana-skor">
+    <div class="baslik egik"><h2>Ana skor: TOB-Skor</h2></div>
+    <p class="giris"><b>TOB-Skor = √(Doğruluk × Kullanılabilirlik).</b> Doğruluk, okunan bilginin (kelime, Türkçe karakter, sayı, tablo, formül…) yüzde kaçının doğru olduğunu; Kullanılabilirlik, sayfaların hata yükü düşünüldüğünde ne kadar iş gördüğünü ölçer. Geometrik ortalama olduğundan biri ötekini telafi edemez. Çubuk: sayfaların temiz / düzeltilebilir / güvenilmez dağılımı.</p>
+    <div class="kutu">
+      <div class="kb"><h3>Sıralama</h3><small id="ana-alt"></small></div>
+      <div class="kaydir"><table id="ana"></table></div>
+      <div class="lejant"><span class="l-t">Temiz</span><span class="l-d">Düzeltilebilir (kritik yok, orta hata fazla)</span><span class="l-g">Güvenilmez (en az 1 kritik)</span></div>
+    </div>
+  </section>
+
+  <section id="kategori">
+    <div class="baslik egik"><h2>Kategori bazında kullanılabilirlik</h2></div>
+    <p class="giris">Her hücre, o kategorideki sayfaların ortalama kullanılabilirlik puanıdır. Renk koyulaştıkça puan yüksek.</p>
+    <div class="kutu"><div class="kaydir"><table id="katisi"></table></div></div>
+  </section>
+
+  <section id="yontem">
+    <div class="baslik egik"><h2>Puan nasıl hesaplanıyor</h2></div>
+    <p class="giris">Doğru metin ve model çıktısı aynı dönüştürücüden geçer: biçim (kalın, başlık, Markdown/HTML/LaTeX yazımı, tırnak türü, boşluk düzeni) silinir. Formüller KaTeX ile çizilip yapısıyla karşılaştırılır. Sonra her sayfadan birim testler üretilir; kalan her test bir şiddet alır.</p>
+    <div class="kurallar">
+      <div class="kural egik"><h4><span class="serit" style="background:var(--hata)"></span>Kritik</h4><ul>
+        <li>Yanlış ya da eksik sayı (<code>4,5</code> ≠ <code>4.5</code>)</li><li>Yanlış formül</li><li>Tabloda yanlış yere giden hücre</li>
+        <li>Başka bir kelimeye dönmüş kelime (2'den fazla harf ya da yarısından fazlası farklı)</li><li>Olumsuzluk eki farkı (<i>geldi</i> ↔ <i>gelmedi</i>)</li>
+        <li>3 ve daha fazla kelime eksik/fazla; atlanmış metin parçası</li><li><code>[okunaksız]</code> yerine uydurma; uydurma metin</li><li>Felaket (kapı): boş, kesik, döngü, yabancı alfabe</li></ul></div>
+      <div class="kural egik"><h4><span class="serit" style="background:var(--sari)"></span>Orta</h4><ul>
+        <li><b>Türkçe karakter hatası</b> (ı/i, ş/s, ğ/g, İ/I, â/a): ağırlık 2,5</li><li>Tek harf hatası (en çok 2 harf); büyük/küçük harf</li>
+        <li>1–2 kelime eksik/fazla</li><li>Okuma sırası (yalnız akademik, kitap, Resmî Gazete, taranmış, formül); tablo başlık yapısı</li><li>Satır sonunda bölünmüş kelime birleştirilmemiş</li>
+        <li>Görseldeki yazım hatasını düzeltme; eksik dipnot işareti</li></ul></div>
+      <div class="kural egik"><h4><span class="serit" style="background:var(--tane)"></span>Hafif · hükmü etkilemez</h4><ul>
+        <li>Yalnız noktalama farkı</li><li>Tamamen büyük harfli kelimede yalnız büyük/küçük farkı</li></ul><p class="not">Yalnız boşluk farkı ve el yazısında büyük/küçük harf hiç ceza almaz.</p></div>
+    </div>
+    <div class="formul-kutu">
+      <b>TOB-Skor</b> = √( Doğruluk × Kullanılabilirlik )<br>
+      Doğruluk = ortalama<sub>aile</sub>( ortalama<sub>kategori</sub>( geçen test / test ) )<br>
+      ceza = 100 × ( 5·kritik + 2,5·Türkçe karakter + 1·diğer orta + 0,1·hafif ) / ( kelime + formül tokenı ) &nbsp;<span style="opacity:.75">(MQM, Freitag ve ark. 2021)</span><br>
+      sayfa puanı = 2<sup>−ceza / 5</sup> &nbsp;(kapı: boş, kesik, döngü, yabancı alfabe → 0)<br>
+      Kullanılabilirlik = ortalama<sub>kategori</sub>( sayfa puanı )<br>
+      sayfa hükmü (katı ölçü) = <b>güvenilmez</b> kritik ≥ 1 · <b>temiz</b> kritik = 0 ve orta ≤ kelime / 100 · <b>düzeltilebilir</b> diğer
+    </div>
+  </section>
+
+  <section id="aileler">
+    <div class="baslik egik"><h2>Doğruluk: birim testler</h2></div>
+    <p class="giris">Her test tek bir gerçeği sınar ve ya geçer ya kalır. Aile skoru, kategori içindeki geçme oranlarının ortalamasıdır. Ayırt edici skor (ek analiz), bütün modellerin geçtiği testler çıkarılarak hesaplanır; model kümesine bağlı olduğundan sıralamaya girmez.</p>
+    <div class="kutu"><div class="kaydir"><table id="aile"></table></div>
+      <div class="not">metin: zor bir tokenin (sayı, kod, özel ad, eski imla, nadir kelime) çevresindeki ~12 tokenlık parça · turkce: ç ğ ı ö ş ü İ/I ve şapkalı harfli kelimeler · sayi · tablo: hücre ilişkileri · formul: KaTeX kanonu · tire: satır sonu · olmamali: [okunaksız] yerine uydurma. Sıra (paragraf sırası) ve kapsam (atlanan metin) aileye girmez, sayfa hatası olarak kullanılabilirliği düşürür</div></div>
+  </section>
+
+  <section id="ek">
+    <div class="baslik egik"><h2>Ek ölçüler</h2></div>
+    <p class="giris">Skora girmeyen, hatanın türünü gösteren ölçüler. Kapı: felaketli sayfa oranı. Fazlalık: çıktıda olup doğru metinde olmayan kelime oranı. DER: okunan kelimelerde eksik aksan (ş→s) ve fazla aksan (s→ş) oranı. Kök ve ek doğruluğu Zemberek (Zeyrek) çözümlemesiyle.</p>
+    <div class="kutu"><div class="kaydir"><table id="ekt"></table></div></div>
+    <div class="kutu"><div class="kb"><h3>Morfoloji: zor parçalardaki hatalı kelimeler</h3><small>sayı</small></div><div class="kaydir"><table id="morf"></table></div>
+      <div class="not">kök: kök değişmiş · ek: kök doğru, ek yanlış · olumsuzluk: anlamı tersine çeviren ek · yalnız aksan · gerçek kelime: hatalı çıktı da geçerli bir Türkçe kelime (yazım denetimi yakalayamaz)</div></div>
+  </section>
+
+  <section id="model">
+    <div class="baslik egik"><h2>Model ayrıntısı</h2></div>
+    <div class="kutu">
+      <div class="secim"><label for="mod-sec">Model</label><select id="mod-sec"></select></div>
+      <div class="kaydir"><table id="mod-aile"></table></div>
+      <div class="izgara2" style="padding:16px">
+        <div class="kutu"><div class="kb"><h3>Kapı nedenleri</h3><small>sayfa</small></div><div class="kaydir"><table id="mod-kapi"></table></div></div>
+        <div class="kutu"><div class="kb"><h3>Tanı sayaçları</h3><small>adet</small></div><div class="kaydir" style="max-height:320px"><table id="mod-teshis"></table></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="yanlilik">
+    <div class="baslik egik"><h2>Taslak modeli yanlılığı</h2></div>
+    <p class="giris">Doğru metnin taslağı dört modelden en uzlaşmacısıdır. Bir modelin kendi taslak verdiği sayfalar çıkarılınca birim test skoru ne kadar düşüyor?</p>
+    <div class="kutu"><div class="kaydir"><table id="yan"></table></div></div>
+  </section>
+
+  <section id="testler">
+    <div class="baslik egik"><h2>Test sayıları</h2></div>
+    <div class="kutu"><div class="kaydir"><table id="tsay"></table></div></div>
+  </section>
+
+  <section id="gezgin">
+    <div class="baslik egik egik-y"><h2>Sayfa gezgini</h2></div>
+    <p class="giris">Her sayfada her modelin hükmü ve bulunan hatalar. Bir satıra tıklayınca modellerin hata örnekleri açılır: kırmızı doğru metin, yeşil model çıktısı.</p>
+    <div class="kutu">
+      <div class="secim">
+        <label for="g-kat">Kategori</label><select id="g-kat"></select>
+        <label for="g-mod">Model</label><select id="g-mod"></select>
+        <label for="g-huk">Hüküm</label><select id="g-huk"><option value="">Hepsi</option><option value="t">Temiz</option><option value="d">Düzeltilebilir</option><option value="g">Güvenilmez</option></select>
+        <label for="g-ara">Ara</label><input type="search" id="g-ara" placeholder="sayfa kimliği">
+      </div>
+      <div class="kaydir" style="max-height:440px"><table id="liste"></table></div>
+      <div class="ayrinti" id="ayrinti"><div class="not" style="padding:0">Listeden bir sayfa seç.</div></div>
+    </div>
+  </section>
+</main>
+<footer><div class="ic"><span>TurkishOCR-Bench · v2 puanlayıcı</span><span id="uretim"></span></div></footer>
+
+<script>
+const V = /*__VERI__*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const f1 = (v, d = 1) => (v == null || Number.isNaN(v)) ? '–' : Number(v).toLocaleString('tr-TR', {minimumFractionDigits: d, maximumFractionDigits: d});
+const yuz = v => v == null ? null : 100 * v;
+const KAT = V.kat_ad, katlar = Object.keys(KAT).filter(k => V.kat_say[k]);
+const M = V.modeller, sira = Object.keys(M).sort((a, b) => M[b].tob.skor - M[a].tob.skor);
+const biz = m => m === 'moganocr-tr';
+const isi = (v, renk = 'var(--deniz)') => v == null ? '<td class="isi">–</td>' : `<td class="isi" style="background:color-mix(in srgb, ${renk} ${Math.round(Math.max(0, Math.min(100, v)) * 0.85)}%, transparent)">${f1(v, 0)}</td>`;
+const tr = (m, ic) => `<tr class="${biz(m) ? 'biz' : ''}">${ic}</tr>`;
+const HUK = {t: 'temiz', d: 'düzeltilebilir', g: 'güvenilmez'};
+
+// olgular
+const testTop = Object.entries(V.test_say).filter(([a]) => a !== 'temel').reduce((s, [, k]) => s + Object.values(k).reduce((x, y) => x + y, 0), 0);
+$('#olgular').innerHTML = [[V.sayfa_say, 'onaylı sayfa'], [V.belge_say, 'belge'], [katlar.length, 'kategori'], [sira.length, 'model'], [testTop.toLocaleString('tr-TR'), 'birim test']]
+  .map(([b, s]) => `<div><b>${b}</b><span>${s}</span></div>`).join('');
+$('#uretim').textContent = 'Üretim: ' + V.uretim;
+
+// ana skor
+$('#ana-alt').textContent = `${V.sayfa_say} sayfa · ${sira.length} model`;
+$('#ana').innerHTML = `<thead><tr><th>#</th><th>Model</th><th class="sag">TOB-Skor</th><th></th><th class="sag">Doğruluk</th><th class="sag">Kullanılabilirlik</th><th>Temiz · Düzeltilebilir · Güvenilmez</th><th class="sag">Kapsam</th></tr></thead><tbody>` +
+  sira.map((m, i) => { const o = M[m], h = o.hukum;
+    return tr(m, `<td>${i + 1}</td><td>${esc(o.ad)}</td><td class="sag"><b>${f1(o.tob.skor)}</b></td>
+      <td><div class="cubuk"><i style="width:${o.tob.skor}%"></i></div></td>
+      <td class="sag">${f1(o.birim)}</td><td class="sag">${f1(o.kull.skor)}</td>
+      <td><div class="yigin" title="temiz ${f1(yuz(h.temiz))} · düzeltilebilir ${f1(yuz(h.duzeltilebilir))} · güvenilmez ${f1(yuz(h.guvenilmez))}"><i class="y-t" style="width:${yuz(h.temiz)}%"></i><i class="y-d" style="width:${yuz(h.duzeltilebilir)}%"></i><i class="y-g" style="width:${yuz(h.guvenilmez)}%"></i></div></td>
+      <td class="sag">${o.ek.kapsam == null ? '–' : f1(yuz(o.ek.kapsam))}</td>`); }).join('') + '</tbody>';
+
+// kategori ısı
+$('#katisi').innerHTML = `<thead><tr><th>Model</th><th class="sag">Kullanılabilirlik</th>${katlar.map(k => `<th class="sag">${esc(KAT[k])}<br><span style="opacity:.75">${V.kat_say[k]} s.</span></th>`).join('')}</tr></thead><tbody>` +
+  sira.map(m => tr(m, `<td>${esc(M[m].ad)}</td><td class="sag"><b>${f1(M[m].kull.skor)}</b></td>${katlar.map(k => isi(yuz(M[m].kat_kull[k]))).join('')}`)).join('') + '</tbody>';
+
+// aileler
+const AILE = Object.keys(M[sira[0]].aile);
+$('#aile').innerHTML = `<thead><tr><th>Model</th><th class="sag">Doğruluk</th>${AILE.map(a => `<th class="sag">${a}</th>`).join('')}<th class="sag">Ayırt edici</th></tr></thead><tbody>` +
+  [...sira].sort((a, b) => M[b].birim - M[a].birim).map(m => tr(m, `<td>${esc(M[m].ad)}</td><td class="sag"><b>${f1(M[m].birim)}</b></td>${AILE.map(a => isi(yuz(M[m].aile[a]), 'var(--kobalt-acik)')).join('')}<td class="sag">${M[m].ayirt ? f1(M[m].ayirt.skor) : '–'}</td>`)).join('') + '</tbody>';
+
+// ek ölçüler
+const EK = [['kapi', 'Kapı %', 1], ['kapsam', 'Kapsam %', 1], ['fazlalik', 'Fazlalık %', 1], ['chrf_p', 'chrF P', 1], ['chrf_r', 'chrF R', 1], ['der_eksik', 'DER eksik %', 2], ['der_fazla', 'DER fazla %', 2], ['nokta', 'İ/I nokta %', 2], ['kok_dogruluk', 'Kök doğr.', 1], ['ek_dogruluk', 'Ek doğr.', 1]];
+$('#ekt').innerHTML = `<thead><tr><th>Model</th>${EK.map(e => `<th class="sag">${e[1]}</th>`).join('')}</tr></thead><tbody>` +
+  sira.map(m => tr(m, `<td>${esc(M[m].ad)}</td>${EK.map(([k, , d]) => `<td class="sag">${f1(yuz(M[m].ek[k]), d)}</td>`).join('')}`)).join('') + '</tbody>';
+const MK = [['kok', 'kök'], ['ek', 'ek'], ['olumsuzluk', 'olumsuzluk'], ['yalniz_aksan', 'yalnız aksan'], ['buyuk_kucuk', 'büyük/küçük'], ['cozumsuz', 'çözümsüz'], ['gercek_kelime', 'gerçek kelime'], ['eksik_kelime', 'eksik kelime'], ['kelime', 'bakılan kelime']];
+$('#morf').innerHTML = `<thead><tr><th>Model</th>${MK.map(e => `<th class="sag">${e[1]}</th>`).join('')}</tr></thead><tbody>` +
+  sira.map(m => tr(m, `<td>${esc(M[m].ad)}</td>${MK.map(([k]) => `<td class="sag">${(M[m].morf[k] ?? 0).toLocaleString('tr-TR')}</td>`).join('')}`)).join('') + '</tbody>';
+
+// model ayrıntısı
+$('#mod-sec').innerHTML = sira.map(m => `<option value="${m}" ${biz(m) ? 'selected' : ''}>${esc(M[m].ad)}</option>`).join('');
+function modelCiz() {
+  const m = $('#mod-sec').value, o = M[m];
+  $('#mod-aile').innerHTML = `<thead><tr><th>Aile</th>${katlar.map(k => `<th class="sag">${esc(KAT[k])}</th>`).join('')}<th class="sag">Ortalama</th></tr></thead><tbody>` +
+    AILE.map(a => `<tr><td>${a}</td>${katlar.map(k => isi(yuz(o.aile_kat[a]?.[k]), 'var(--kobalt-acik)')).join('')}<td class="sag"><b>${f1(yuz(o.aile[a]))}</b></td></tr>`).join('') +
+    `<tr><td><b>Temiz sayfa</b></td>${katlar.map(k => isi(yuz(o.kat_temiz[k]))).join('')}<td class="sag"><b>${f1(o.temiz.skor)}</b></td></tr></tbody>`;
+  const kn = Object.entries(o.kapi_neden).sort((a, b) => b[1] - a[1]);
+  $('#mod-kapi').innerHTML = kn.length ? `<thead><tr><th>Neden</th><th class="sag">Sayfa</th></tr></thead><tbody>${kn.map(([k, v]) => `<tr><td>${esc(k.replace('_', ' '))}</td><td class="sag">${v}</td></tr>`).join('')}</tbody>` : '<tbody><tr><td>Felaket yok</td></tr></tbody>';
+  const ts = Object.entries(o.teshis).filter(([k]) => !k.startsWith('temel_')).sort((a, b) => b[1] - a[1]);
+  $('#mod-teshis').innerHTML = `<thead><tr><th>Sayaç</th><th class="sag">Adet</th></tr></thead><tbody>${ts.map(([k, v]) => `<tr><td>${esc(k.replaceAll('_', ' '))}</td><td class="sag">${v.toLocaleString('tr-TR')}</td></tr>`).join('')}</tbody>`;
+}
+$('#mod-sec').onchange = modelCiz; modelCiz();
+
+// yanlılık
+const tm = sira.filter(m => M[m].iz.temel_degil != null && Math.abs(M[m].iz.temel_degil - M[m].birim) > 0.05);
+$('#yan').innerHTML = `<thead><tr><th>Model</th><th class="sag">Bütün sayfalar</th><th class="sag">Taban olmadığı sayfalar</th><th class="sag">Fark</th><th class="sag">Sentetik hariç</th></tr></thead><tbody>` +
+  (tm.length ? tm : sira.slice(0, 4)).map(m => tr(m, `<td>${esc(M[m].ad)}</td><td class="sag">${f1(M[m].birim)}</td><td class="sag">${f1(M[m].iz.temel_degil)}</td><td class="sag"><b>${f1(M[m].iz.temel_degil - M[m].birim)}</b></td><td class="sag">${f1(M[m].iz.sentetik_haric)}</td>`)).join('') + '</tbody>';
+
+// test sayıları
+const TA = Object.keys(V.test_say);
+$('#tsay').innerHTML = `<thead><tr><th>Aile</th>${katlar.map(k => `<th class="sag">${esc(KAT[k])}</th>`).join('')}<th class="sag">Toplam</th></tr></thead><tbody>` +
+  TA.map(a => { const r = V.test_say[a]; const t = katlar.reduce((s, k) => s + (r[k] || 0), 0);
+    return `<tr><td>${a === 'temel' ? 'temel (kapı)' : a}</td>${katlar.map(k => `<td class="sag">${(r[k] || 0).toLocaleString('tr-TR')}</td>`).join('')}<td class="sag"><b>${t.toLocaleString('tr-TR')}</b></td></tr>`; }).join('') + '</tbody>';
+
+// sayfa gezgini
+$('#g-kat').innerHTML = '<option value="">Hepsi</option>' + katlar.map(k => `<option value="${k}">${esc(KAT[k])}</option>`).join('');
+$('#g-mod').innerHTML = sira.map(m => `<option value="${m}" ${biz(m) ? 'selected' : ''}>${esc(M[m].ad)}</option>`).join('');
+let secili = null;
+function listeCiz() {
+  const k = $('#g-kat').value, m = $('#g-mod').value, h = $('#g-huk').value, a = $('#g-ara').value.trim().toLowerCase();
+  const ids = Object.keys(V.sayfalar).filter(i => { const s = V.sayfalar[i];
+    return (!k || s.k === k) && (!a || i.toLowerCase().includes(a)) && (!h || (s.h[m] && s.h[m][0] === h)); });
+  $('#liste').innerHTML = `<thead><tr><th>Sayfa</th><th>Kategori</th><th class="sag">Kelime</th><th>${esc(M[m].ad)}</th><th class="sag">K / O / H</th><th>Bütün modeller</th></tr></thead><tbody>` +
+    ids.slice(0, 300).map(i => { const s = V.sayfalar[i], x = s.h[m];
+      return `<tr tabindex="0" data-id="${esc(i)}" class="${i === secili ? 'sec' : ''}"><td>${esc(i.length > 34 ? i.slice(0, 32) + '…' : i)}</td><td>${esc(KAT[s.k])}</td><td class="sag">${x ? x[4] : '–'}</td>
+        <td>${x ? `<span class="cip ${x[0]}">${HUK[x[0]]}</span>` : '–'}</td><td class="sag">${x ? `${x[1]} / ${x[2]} / ${x[3]}` : '–'}</td>
+        <td>${sira.map(mm => { const y = s.h[mm]; return y ? `<span class="cip ${y[0]}" title="${esc(M[mm].ad)}: ${HUK[y[0]]}">${y[0].toUpperCase()}</span>` : ''; }).join('')}</td></tr>`; }).join('') + '</tbody>';
+  if (ids.length > 300) $('#liste').insertAdjacentHTML('beforeend', `<caption class="not" style="caption-side:bottom;text-align:left">${ids.length} sayfadan ilk 300'ü gösteriliyor; süzgeci daralt.</caption>`);
+}
+function ayrintiCiz(i) {
+  secili = i; const s = V.sayfalar[i];
+  $('#ayrinti').innerHTML = `<div style="font:700 15px var(--display);text-transform:uppercase">${esc(i)} <span style="font:400 12px var(--mono);color:var(--soluk);text-transform:none">· ${esc(KAT[s.k])} · belge ${esc(s.b)} · taslak: ${esc(s.t || '–')}</span></div>` +
+    sira.map(m => { const x = s.h[m]; if (!x) return '';
+      const ornek = x[5].length ? `<ul>${x[5].map(([sd, tur, g, h]) => `<li><span class="siddet-${sd}">${sd === 'k' ? 'kritik' : sd === 'o' ? 'orta' : 'hafif'}</span> · ${esc(tur.replaceAll('_', ' '))}: ${g ? `<del>${esc(g)}</del>` : ''}${g && h ? ' → ' : ''}${h ? `<ins>${esc(h)}</ins>` : ''}</li>`).join('')}</ul>` : '<div class="yok">Hata yok.</div>';
+      return `<div class="mrow"><div><span class="cip ${x[0]}">${HUK[x[0]]}</span>${esc(M[m].ad)} <span style="color:var(--soluk);font-weight:400">kritik ${x[1]} · orta ${x[2]} · hafif ${x[3]} · ${x[4]} kelime${x[1] + x[2] + x[3] > x[5].length ? ' · ilk ' + x[5].length + ' hata gösteriliyor' : ''}</span></div>${ornek}</div>`; }).join('');
+  listeCiz();
+}
+$('#liste').onclick = e => { const r = e.target.closest('tr[data-id]'); if (r) ayrintiCiz(r.dataset.id); };
+$('#liste').onkeydown = e => { if (e.key === 'Enter') { const r = e.target.closest('tr[data-id]'); if (r) ayrintiCiz(r.dataset.id); } };
+['#g-kat', '#g-mod', '#g-huk'].forEach(s => $(s).onchange = listeCiz); $('#g-ara').oninput = listeCiz;
+listeCiz();
+const ilk = Object.keys(V.sayfalar).find(i => V.sayfalar[i].h['moganocr-tr'] && V.sayfalar[i].h['moganocr-tr'][0] === 'g' && V.sayfalar[i].h['moganocr-tr'][1] === 1);
+if (ilk) ayrintiCiz(ilk);
+</script>

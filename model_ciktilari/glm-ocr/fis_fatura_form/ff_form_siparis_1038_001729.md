@@ -1,0 +1,5 @@
+## ASTERYA MOBİLYA SAN. VE TİC. LTD. ŞTİ.
+
+<table border="1"><tr><td>Siparis No.14220</td><td colspan="3">Tarih14.01.2026</td></tr><tr><td>Musteri Adi SoyadiNurhayet Fayize Tevetoğlu</td><td colspan="3">Telefon0(543)5363481</td></tr><tr><td colspan="4">Testimat AdresiŞirinevler Mah. Okul Sk.No:132 İlkadım/Samsun</td></tr><tr><td>Urün</td><td>Adet</td><td>Birim Flyat</td><td>Tutar</td></tr><tr><td>Masa Lambasi</td><td>1</td><td>420,00</td><td>420,00</td></tr><tr><td>Pamuklu Bornoz</td><td>1</td><td>740,00</td><td>740,00</td></tr><tr><td>Duvar Saati</td><td>1</td><td>380,00</td><td>380,00</td></tr><tr><td>Kır lent Kilifi</td><td>2</td><td>210,00</td><td>420,00</td></tr><tr><td>Cam Saklama Kabı 3&#x27;lü</td><td>5</td><td>460,00</td><td>2.300,00</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td colspan="3">GENEL TOPLAM</td><td>4.260,00TL</td></tr></table>
+
+Ödeme: Kapida Nakit Kapida Kredi Karti Havale / EFT

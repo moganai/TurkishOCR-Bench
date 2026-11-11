@@ -1,0 +1,16 @@
+<header>
+BİLGİ VE BELGE YÖNETİMİNDE TEKNOLOJİK DEĞİŞİMLERİN TOPLUMSAL YANSIMALARI /
+SOCIAL REFLECTIONS OF TECHNOLOGICAL CHANGES IN INFORMATION AND RECORDS
+776 | MANAGEMENT
+</header>
+
+<footer>
+</footer>
+
+‘kamuya ödünc vermenin kamuya açık kuruluşlar aracılığıyla belirlenmesi’ unsur da ölçüt olarak belirleyici olabilir. Zira bu unsur kamuya ödünc verme hakkına özgü bir unsur olup; kiralama hakkı hakkında bulunmamaktadır. Eğer somut olayda bu unsur da gerekli belirlemenin yapılabilmesi için yeterli olmasa, somut olayın özellikleri çerçevesinde ekonomik veya ticari değeri olan herhangi bir karşılık elde etme amacının olup olmadığına bakılmalıdır.
+
+**ii-) Eserleri Kamuya Açık Kuruluşlar Aracılığıyla Kullanma Sunma Unsuru:**
+
+Eserleri kamuya açık kuruluşlar aracılığıyla kullanım sunma unsuru gereği eserlerin kamuya açık kuruluşlar aracılığıyla ödünc verilmesi gereklidir. Bu unsur bakımından kamuya açık kuruluşlar kavramının kapsamına dahil olan kuruluşların belirlenmesi gereklidir. Türk hukukunda kamuya açık kuruluşların kütüphaneler olduğu kabul edilmektedir (Yüksel, 1997, s.258; Öztan, 2008, s.374; Suluk ve Nal, 2013, s. 90; Genç-Arıdemir, 2009, s.110; Bozbel, 2015, s. 116). Bu kavramın kapsamının sadece devlet kütüphaneleri ile mi sınırlı olduğu yoksa bu kapsama özel kütüphaneler ya da sadece üyelerine veya sınırlı sayıda kişilere açık kütüphanelerin veya kamuya açık sergilerin dahil olup olmadığı tartışma konusu olmuştur (Yüksel, 1997, s. 257). Kanaatimizce, ‘kamuya açık kuruluşlar’ ifadesindeki kamu terimi özelin karşılığı olarak devlete ait anlamda değildir. FSEK m23/1’in amacı ve kapsamı bakımından burada önemli olan ister özel ister kamu kurumü olsun eserlerin kamuya yani halka sunulmasıdır. Dolayısıyla bu ifadedeki kamu kavramı halk anlamında kullanılmış olup; hem özel hem de devlete ait bütün kütüphaneleri kapsamalıdır. Çünkü hukuki düzenleme açısından önemli olan eserlerin kuruluşlar aracılığıyla kumunun kullanımına sunulması ve bu sunum sebebiyle eser sahibinin uğradığı zararın karşılanmasıdır. Diğer ifade ile burada kullanılan kamu sözcüğü halk veya okuyucu kitlesi anlamında kullanılmış olup; amaç eser sahibinin korunmasıdır. Kamuya sunan kuruluşun devlete mi özel sektöre mi ait olduğunu önemli yoktur (Bozbel, 2015, s.116; Genç-Arıdemir, 2009, s.110; Yüksel,1997, s. 257).
+
+Bu unsurdaki ‘kullanım sunma’ ifadesi bakımından FSEK kapsamında kamuya ödünc vermenin varlığı için okuyucuların kütüphanelerden kitapları alarak kütüphane binasının dışına çıkartmalarının şart olup olmadığı sorunu tartışma konusu olmuştur (Bozbel, 2015, s.116); (Genç-Arıdemir, 2009, s.110) Örneğin: Eserlerin kütüphane raflarında veya kataloglarda sergilenmesi ve okuyucunun bunlardan kütüphane içinde yararlanması kullanım sunma için yeterli olacak mıdır? Bu soruya öğretide iki ayrı cevap verilmıştır. Bunlardan birine göre kitapların ödünc verilmediği ve fotokopisinin çekilmesine izin verilmediği durumlarda dahi kamuya sunmanın gerçekleşmişinin kabul edilmesi gerektiği ileri sürülmektedir (Bozbel, 2015, s. 116; Genç-Arıdemir, 2009, s. 110). Diğere göre ise, bu sorunun cevabı mehzaz 92/100EEC yönergesinin giriş kısmında 10. paragraftaki açıklamalara dayanılarak verilmektedir. Bu açık-

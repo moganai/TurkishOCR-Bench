@@ -1,0 +1,3 @@
+$$ \begin{array}{l} \text{der} [P(x)] = m \\  \text{der} [Q(x)] = n \end{array}  \quad m > n $$ 
+
+ $$ \begin{array}{l} \text{der} \left[ \rho (x), \theta (k) \right] = \text{der} (x^m, x^n) = (m+n) \\ \text{der} \left[ \rho^2 (x), \theta (x) \right] = \text{der} (x^{2m}, x^n) = 2m+n \\ \text{der} \left[ \rho (x) \mp \theta (x) \right] = \text{der} (x^m \pm x^n) = \text{M} (m, n) \\ \text{der} \left[ \frac{\rho (x)}{\theta (x)} \right] = \text{der} (x \frac{m}{x^n}) = (m-n) \end{array} $$

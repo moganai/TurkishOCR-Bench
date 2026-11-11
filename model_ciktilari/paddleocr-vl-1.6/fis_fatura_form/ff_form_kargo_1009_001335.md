@@ -1,0 +1,5 @@
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>GÖNDERİCİ\nAd Soyad\nBerran Yorulmaz\nAdres\nYesiltepe Mah. Değirmen Sokak No. 123 D. 17\nÇukurova / Adana\nTelefon (545) 307 73 06</td><td colspan="2">ALICI\nAd Soyad\nŞukri Sezer\nAdres\nFatih Mah. Akasya Sk. No. 161 Kocasinan / Kayseri\nTelefon (506) 553 53 65</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>İçerlik\nGiyim</td><td style='text-align: center; word-wrap: break-word;'>Ağırlık\n11,0 kg</td><td style='text-align: center; word-wrap: break-word;'>Desi\n28</td><td style='text-align: center; word-wrap: break-word;'>Adet\n1</td></tr></table>
+
+Tur: □ Dosya □ Paket □ Koli - □ Odeme: □ Gonderici Odemeli □ Alci Odeme
+
+Tarin: 11.01.2026

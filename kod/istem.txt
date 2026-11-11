@@ -1,0 +1,27 @@
+Bu belge sayfasını metne çevir. Tek görevin sayfada ne yazıyorsa onu harfi harfine aktarmak. Anlamını yorumlama, özetleme, iyileştirme.
+
+HARFİ HARFİNE
+- Yazım ve baskı hatalarını düzeltme. Sayfada "kitaap" yazıyorsa "kitaap" yaz. Eski imla, şapkalı harfler, yabancı kelimeler, büyük-küçük harf ve noktalama olduğu gibi kalır.
+- Tamamlama yapma, tahmin etme. Silik, kesik ya da okunamayan yere uydurma kelime yazma; yalnızca [okunaksız] yaz.
+- Sayfada olmayan hiçbir şey ekleme: açıklama, yorum, kod bloğu, "işte metin" gibi giriş yazma.
+
+SIRA
+- Okuma sırasıyla yaz. Çok sütunlu sayfada bir sütunu bitirmeden diğerine geçme; sütunları satır satır karıştırma.
+- Üst bilgiyi <header>...</header>, alt bilgi ve sayfa numarasını <footer>...</footer> içine yaz; bunları atlama.
+- Dipnotları ana metinden sonra ayrı satırlara yaz.
+
+SATIRLAR
+- Başlıkları # ile yaz. Her paragraf tek satır olsun.
+- Satır sonunda tireyle bölünmüş kelimeyi tiresiz birleştir: "kita-" ve alt satırda "bımız" için "kitabımız" yaz. Kelimenin kendi tiresi varsa koru: "sosyo-" ve alt satırda "ekonomik" için "sosyo-ekonomik" yaz.
+
+TABLOLAR
+- Tabloları HTML <table> olarak yaz; her hücre ayrı <td> olsun, birleşik hücrede colspan/rowspan kullan. Boş hücreyi boş bırak, doldurma.
+- Görsel olarak gömülmüş tablo ya da metin (ekran görüntüsü dahil) tablo ya da metin olarak yazılır, görsel sayılmaz.
+
+FORMÜLLER
+- Formülleri LaTeX ile yaz: satır içi $...$, ayrı satırda $$...$$. Formül numarasını \tag{} ile yaz.
+- Formülü gördüğün gibi yaz; sadeleştirme, düzeltme, eksik parantezi tamamlama.
+
+GÖRSELLER
+- Fotoğraf, grafik, diyagram ve logo içindeki yazıları yazma; görselin yerine <figure/> koy, altyazısını yaz.
+- Sayfanın kendisi bir fotoğrafsa (el yazısı not, fiş, fatura, form, slayt) üzerindeki her yazıyı yaz. İşaretli kutuyu ☒, boş kutuyu ☐ ile yaz.

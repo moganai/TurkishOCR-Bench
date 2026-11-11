@@ -1,0 +1,13 @@
+### HANÇER HEDİYELİK EŞYA LTD. ŞTİ
+
+SİPARİŞ FİŞİ
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Sipariş No</td><td style='text-align: center; word-wrap: break-word;'>Tarih</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>18565</td><td style='text-align: center; word-wrap: break-word;'>29.12.2025</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Müşteri Adı Soyadı Birsan Çorlu</td><td style='text-align: center; word-wrap: break-word;'>Telefon (555) 270 40 10</td></tr><tr><td colspan="2">Teslimat Adresi Yeni Mah. Şehit Öğretmen Sk. No: 56 Toroslar / Mersin</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Ürün</td><td style='text-align: center; word-wrap: break-word;'>Adet</td><td style='text-align: center; word-wrap: break-word;'>Birim Fiyat</td><td style='text-align: center; word-wrap: break-word;'>Tutar</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Masa Lambası</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>660,00</td><td style='text-align: center; word-wrap: break-word;'>3.300,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ahşap Kesme Tahtası</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>370,00</td><td style='text-align: center; word-wrap: break-word;'>370,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Pamuklu Bornoz</td><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>1.280,00</td><td style='text-align: center; word-wrap: break-word;'>1.280,00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td colspan="3">GENEL TOPLAM</td><td style='text-align: center; word-wrap: break-word;'>4.950,00</td></tr><tr><td colspan="3">TL</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+Ödeme: □ Kapıda Nakit □ Kapıda Kredi Kartı □ Havale / EFT
+
+Not: Hediye paketi yapılsın.

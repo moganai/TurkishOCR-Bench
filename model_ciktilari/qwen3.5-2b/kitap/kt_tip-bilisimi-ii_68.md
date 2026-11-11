@@ -1,0 +1,12 @@
+<header>
+<h1>44 | MEDICAL ONTOLOGIES</h1>
+</header>
+
+<footer>
+</footer>
+
+# ÖZ
+
+Tıp, yaşam bilimlerindeki birçok bilim dalı ile ilişkili bir disiplindir. Bu nedenle, tıp biliminin veri kaynaklarını sadece sağlık ve hastane kayıtları, tıp alanyazını ile sınırlı değildir; bu kaynaklar geniş çalışmalarını, klinik deney raporlarını, farmakoloji çalışmalarını ve yaşam bilimlerindeki daha başka çalışmalarını da içerir. Bu nedenle, tıp biliminin başat meselesi hacmi her geçen gün artan, çok çeşitli kaynaklardan gelen ve çeşitli biçimlerde üretilen verilerin bütünleşilmesidir. Veri bütünleşirilmesi ise tıp biliminde bir lingua francaya, yani veri standardizasyonuna ihtiyaç duyur. Bunun yanında, çağımızın veri güdümlü bilim yapma biçimini tıp dünyasında kurmak için bilimsel keşifler mümkün kılacak çıkarların sağlanabilme koşulu olan verilerin makine okuyabilir olması sağlanmalıdır. Bu sayede, çeşitli teknolojilerin desteğiyle enformasyon erişimi ve çıkarımı, bilgi yönetimi ve bilimsel bilgi üretimi makine destekli tıp çalışmalarında görülebilir. Enformasyon sistemlerinde on yıllardır kullanılan ontolojiler tıp biliminin bu beş hedefini—veri standardizasyonu, veri bütünleştirme, enformasyon erişimi ve çıkarımı, bilgi yönetimi, bilimsel bilgi üretimi—sağlamayı vaatmektedirler. Medikal ontolojiler, medikal önem sahip nesnelerin, niteliklerin, süreçlerin ve bunlar arasındaki ilişkilerin gerçekliğe referansı ile biyomedikal bilgiyi makinelerde berimsel yapılarda temsil ederek biyomedikal enformasyon ve bilgi yönetiminde çok sayıda farklı uygulamada yaygın kullanılan etkili teknolojidirler. Medikal ontolojileri daha iyi anlamak için felsefe olarak ontolojiler, bilim olarak ontolojiler ve teknik olarak ontolojilerin neler olduğu bilinmeli ve medikal ontolojilerin gelişimindeki katkılarına dikkat edilmelidir: Felsefe olarak ontolojiler tıpta önemli kategorilerin doğru kavranması ve gerçekliğin doğru sınıflandırılması için bilinmelidir. Bilim olarak ontoloji şeklinde üretilen medikal ontolojiler ise güncelliklerini korumalı ve tıp felsefesinden beslenmelidir. Bu iki çeşit ontoloji ile kuramsal olarak zenginleşikten sonra tıp biliminde faydalanacak teknik olarak ontoloji olan medikal ontolojiler elde edilir.
+
+**Anahtar Kelimeler:** Medikal ontoloji, formel ontoloji, veri standardizasyonu, bilgi üretimi, bilgi temsil

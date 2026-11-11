@@ -1,0 +1,19 @@
+Cumhur BEKAR
+
+8 0 5
+
+16. Yüzyılın sonlarına doğru yazarların kendi gözlemlerini ile İslam coğrafya eserlerinden tercümelerini birleştirdiği önemli coğrafya eserleri kaleme alınmıştı.48 Bu bağlamda, Sipâhizâde Mehmed’in (ö.1589) meşhur İslam coğrafyacısı Ebu’l-Fida’nin yazdığı Takvîmü’l- Büldân’i diğer kaynaklarla beraber yeniden ele aldığı Evzâhu’l-Mesâlik ilâ Ma‘rifeti’l-Büldânve’l-Memâlik isimli eserinin Osmanlı coğrafya çalışmalarında önemli bir yeri vardır.49 Sipâhizâde eserin girişinde coğrafi bilgiler verdikten sonra denizler, göller, nehirler, dağlar ve şehirler başlıklar altında beş ana bölüne ayırmıştı.
+
+Eserin en önemli bölümlerinden birisi harf sırasına göre incelediği şehirler kısmidır. Burada şehrin kurucuları, mimari eserleri, sosyal hayatı gibi birçok önemli özelliğin yanında şehrin hangi iklimde yer aldığı, sınırları ve dağları gibi farklı coğrafi unsurlar da ele alınmıştır. İstanbul kısminda şehrin kurucusu olarak Yanko bin Medyan’ı (metinde Yenku Mazyan olarak geçer) olarak bahseden Sipâhizâde şehrin daha sonra bir zelzele ile yıkılıp şehirdeki insanların hepsinin öldüğünü söyler. Bu durumdan sonra şehrin önce Yanko’nun oglu Buzantin daha sonrasında Kostantinus tarafindan kurulduğunu ve Konstantinus’un Ayasofya isimli bir kilise yaptırdığını belirtir. Konstantinus’dan önceki Rum sultanlarının puta taptiklarını ama sonra Konstantinus’la beraber Hristiyan olduklarını söyler. İslam ordularının kuşatmalarından bahseden Sipâhizâde şehrin II. Mehmed tarafindan fethedildiğini vurgular. Son olarak şehrin deggişik yönlerinde olan Galata ve Üsküdar gibi kasabalardan çok kisa bir sekilde bahsederek İstanbul kısmını bitirir.50
+
+Sipâhizâde’nin anlatımı bir kez daha anonim metinlerde görülen Yanko-Buzantin-Konstantin kurucu silsilesini Osmanlı anlatılarında ne kadar yerleşmiş olduğunu gösterirken diğer yandan bu anlatıldaki anti-imparatorluk ve lanetlik ögelerinin nasıl temizlendiğini de gösterir. Şehir zelzele ile yıkilmıştır ama bu Tanrının gazabından kaynaklanmamıştır. Anlatımda herhangi bir lanetlik öğesine rastlanılmaz. Benzer bir biçimde, İslam ordularının kuşatmalarindan bahsedilir ama anonim metinlerden farklı olarak İslam orduları şehri ele almakta başarısız olur ve böylece fethin şerefí II. Mehmed'e kalır. Sipâhizâde’nin bu anlatım tarzı ideolojik temizliği yapılmış olan belirli bir kaynak gruba yaslanmanın getirdiği rahatlıkla açıklanabilir. Bununla birlikte, bu efsanevi hikayelere karşı alternatif tarihsel bir anlatının da geliştirilmediği görülmektedir.
+
+16. Yüzyılın son önemli coğrafya yazarı Âşık Mehmed’in 1596-1598 yılları arasında tamamladığı Menâzirü’l-Aválim eseri çok uzun yıllara dayanan kendi seyahat tecrübesi ile İslam coğrafya vekozmografya eserlerini harmanlanmasına dayanıyordu.51 Kendi çağının diğer coğrafya eserlerine benzer bir biçimde eserin ilk kısmında evrenin yaratılması, güneş, ay, cennet ve cehennem gibi kozmografya temelli bir anlatısı var iken 18 alt başlıga ayırdığı ikinci kısımda yeryüz şekillerinden şehirlere daha çok coğrafya odaklı bir anlatımı vardır. Sipâhizâde gibi Âşık Mehmed’de eserinde en geniş kısmi şehirlere ayirmıştı. Sipahizade’den ayrılan özelliği ise Âşık Mehmed’in siklıkla kendi gözlem ve tecrübelerine yer vermiş olmasidır ki zaten bu özelliği Âşık Mehmed’e 16.yüzyil coğrafya yazarları arasinda eşsiz bir konum sağlar.
+
+48 İlhami Danış, "Başlangıcından XVI. Yüzyıl Sonuna Kadar Türk İslâm Coğrafyacılığı (Ekoller, İsimler ve Eserler)", Türkiye Araştırmaları Literatür Dergisi 17, sy. 33 (2020): 30.
+
+49 Sipâhizâde Mehmed, Evzâhu'l-Mesâlik ilâ Ma'rifeti'l-Büldân ve'l-Memâlik, haz. İlhami Danış (Ankara: TÜBA, 2019).
+
+50 Sipâhizade Mehmed, Evzâhu'l-Mesâlik ilâ Ma'rifeti'l-Büldân, 432.
+
+51 Âşık Mehmed, Menâzirü'l-Aválim, ed. Mahmut Ak (Ankara: TTK, 2007); Gottfried Hagen, Bir Osmanlı Cografyacısı İş Başında: Katip Çelebi'nin Cihannüma sı ve Düşünce Dünyası, çev. Hilal Görgün (İstanbul: Küre, 2015), 122-33.

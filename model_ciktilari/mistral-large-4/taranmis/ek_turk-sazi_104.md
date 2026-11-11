@@ -1,0 +1,20 @@
+<header>
+# Bulutlar
+</header>
+
+# NİFAK
+
+*Ey vatanın ulkunda ışık çalan baykuş ses!*
+*Lânet sana, sus, boğul; kahkahânı artık kes!..*
+
+Evet sanın fırtınan her boradan zalimdir, Senin alçak hırsların girdaplardan derindir, Senin kanlı kinlerin kayalardan keskindir, Senin melun rüzgârın dünyaları titretir;
+
+Bir devleti öyle bir felâkete düşürür, Tehlikeye atar ki, burada büyük bir millet, Şeref, namus, hürriyet... Bir geminin enkazı gibi batar ve çürür.
+
+Ey tarihin feneri! Sen bizlere ışık ver, Kurtarıcı nurunu şimşek gibi parıldat, Gözümüzü kör eden karanlığı aydınlat; Neredeyiz? Nereye gideceğiz? Yol göster!..
+
+Ve göster ki: Zamanın kumlarında kaç mezar, Şu uğursuz nifâka kurban olmuş kaç vatan, Kaç zavallı Hindistan, Kaç zavallı Buhara, kaç zavallı Kırım var?..
+
+<footer>
+131
+</footer>

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+sonuclar_yeni/
+# Hugging Face'ten indirilir (kod/veri_indir.py)
+veri/goruntu/
+veri/dogru_metin/
+veri/.cache/

@@ -1,0 +1,11 @@
+de Çanakkale’de, Onsekiz Mart Üniversitesi’nde yüklendiği idari görevlerle birlikte Yıldız Ötüken ekolünün temsilciliğini yapmaktadır adeta: Yüzey araştırmaları yapmakta, kazılara katılmakta, projeler yürütüp, gençler yetiştirmektedir. Danışmanlığında tamamlanmış onu aşkin lisans üstü tezlerden bir de doktoradır. Hem Nilay Çorağan’ın hem de Ayşe Çaylak-Türker’in el verdikleri gençler çeşitli üniversitelerde görev yapmaktadırlar.
+
+Kısaca ifade etmek gerekirse Türkiye’de Bizans sanatı tarihinin oluşumunda Semavi Beyin başı çektiği İstanbul Üniversitesi ekolünün, olgunlaşıp yaygınlaşmasında da Yıldız Ötüken ve Ebru Parman’ın başı çektikleri Hacettepe ekolünün rolü büyüktür. Kuşkusuz Türkiye’deki Bizans sanatı araştırmalarını akademik boyutunu sadece bu iki çerçeve ile sınırlandırmak doğru değildir. Batıdaki eğitimlerinin ardından yurda dönen akademisyenlerle Türkiye’nin doğusunda tüm bunlardan uzak tamamen yerel kültür mirasına sahip çıkmak üzere yola çıkmış; bağımsız akademisyenleri de hatırlamalıyız71.
+
+## Çoğalan Bizans Sanatı Tarihçileri ve Bizans Sanatı Anabilim Dalları
+
+1940’larda tek bir sanat tarihi bölümü varken elli ve altmışlardaki kuruluşlarla sayı beş-altı kadar olmuştu. Bugün Türkiye’de Devlet Üniversitelerinde sanat tarihi eğitimi veren bölümlerin sayısı kırık ikidir. Onların otuz ikisinde Bizans Sanatı Anabilim Dalı bulunmaktadır. Ancak Bizans alanında çalışanlarla vakıf üniversitelerindeki sanat tarihçilerinin sayısı özellikle tarihçilerle bunun çok çok üstündedir. Bu yazısızda sadece Bizans sanatının Semavi Eyice’den bu yana Devlet Üniversitelerini’ndeki kurumsal ve akademik kimlikteki büyükmesine dikkat çekilmektedir⁷².
+
+Türkiye’de sadece Devlet Üniversitelerinde Sanat Tarihi Bölümleri ile birlikte sayıca çoğalan Bizans Sanatı Anabilim Dalında öğretim üyesi sayısı, üniversitelerin otuz ikisindeki Bizans Sanatı Anabilim Dalında yetmiş yedi akademisyen görev yapmaktadır $ ^{73} $.
+
+Söz konusu üniversiteler ve kadroların sıralanışı şu şekildedir: 1. Adıyaman Üniversitesi (Dr. H. Coşkunaras, U. Gökarslan, Dr. M. Gül), 2. Akdeniz Üniversitesi (Prof. B. Ceylan-Du-
